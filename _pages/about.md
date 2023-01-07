@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Postdoctoral Researcher @FIAS,  also a P.I. @XF-IJRC. My research interest focus on Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
+My name is Lingxiao Wang(王凌霄). Now, I'm a Postdoctoral Researcher@FIAS, also a P.I. @XF-IJRC. My research interest focus on Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
 
-See my latest CV here.
+See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdshggN2yv-A/view?usp=sharing'>CV</a> here.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01*: &nbsp;🎉🎉 I will join <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) as a Research Scientist from this summer. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔍 Researches
 - Inverse Probelms
@@ -34,9 +34,11 @@ See my latest CV here.
 - AI for Science
 
 # 💼 Experiences
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10 - now*, Postdoctoral Fellow, Xidian-FIAS Joint Research Center, FIAS, Germany
+- *2020.09 - now*, Postdoctoral Researcher, Frankfurt Institute for Advanced Studies, Germany
+- *2021.03 - 2023.03*, Research Assistant, Institute of Physics, Goethe University, Germnay 
+- *2018.09 - 2020.09*, Research Assistant, Department of Physics, Tsinghua University , China 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2020.06*, Ph.D., Department of Physics, Tsinghua University , Beijing, China
+- *2018.10 - 2019.10*, Joint Ph.D., Physics Department, University of Tokyo , Tokyo, Japan

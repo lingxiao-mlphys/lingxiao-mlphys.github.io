@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lingxiao's Homepage"
-description              : "Postdoc Researcher"
+description              : # "Postdoc Researcher"
 repository               : "Anguswlx/anguswlx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lingxiao Wang（王凌霄）"
+  name             : "Lingxiao Wang"
   avatar           : "images/self_400x400.jpeg"
-  bio              : 
+  bio              : "Postdoc Researcher"
   location         : "Frankfurt, Germany"
-  employer         : "FIAS"
+  employer         : "FIAS and Goethe Uni."
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ujb-RpkAAAAJ"
   email            : "lwang@fias.uni-frankfurt.de"
