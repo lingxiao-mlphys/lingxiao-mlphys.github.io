@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Lingxiao's Homepage"
-description              : "Scientist exploring strongly interacting matter with AI, teaching machine learning phase transitions, AI4Science enthusiast."
-repository               : "Anguswlx/lingxiao.github.io"
+description              : "Postdoc Researcher"
+repository               : "Anguswlx/anguswlx.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lingxiao Wang \n（王凌霄）"
+  name             : "Lingxiao Wang（王凌霄）"
   avatar           : "images/self_400x400.jpeg"
-  bio              : "Postdoc Researcher"
+  bio              : 
   location         : "Frankfurt, Germany"
-  employer         : "Frankfurt Institute for Advanced Studies(FIAS)"
+  employer         : "FIAS"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ujb-RpkAAAAJ"
   email            : "lwang@fias.uni-frankfurt.de"
