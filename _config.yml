@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lingxiao's Homepage"
-description              : # "Postdoc Researcher"
+description              : ""
 repository               : "Anguswlx/anguswlx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,8 +29,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ujb-RpkAAAAJ"
   email            : "lwang@fias.uni-frankfurt.de"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : # "https://www.researchgate.net/profile/Lingxiao-Wang-4"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -45,7 +45,8 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-3757-3403"
+  inspire          : "https://inspirehep.net/authors/1645466"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
