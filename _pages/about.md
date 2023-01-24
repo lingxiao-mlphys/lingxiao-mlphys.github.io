@@ -17,24 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Lingxiao Wang(王凌霄). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
+My name is Lingxiao Wang(王 凌霄). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
 
 See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdshggN2yv-A/view?usp=sharing'>CV</a> here.
 
-I have organized many "machind learning physics" seminars for physicists online, which are in our <a href='https://sites.google.com/view/lingxiao/mlp-club'>MLP club</a>.
+I have organized many "machind learning physics" seminars for physicists online, find the previous activities in our page <a href='https://sites.google.com/view/lingxiao/mlp-club'>MLP club</a>.
+If you are seeking any form of academic cooperation, please feel free to contact me via lwang[at]fias.uni-frankfurt.de.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2023.01*: &nbsp;🎉🎉 I will join <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) as a Research Scientist from this summer. 
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.02*: &nbsp;🚆🚆 I will attend the workshop <a href='https://indico.ph.tum.de/event/7116/'>"Machine Learning approaches in Lattice QCD"</a> at TUM-IAS from 27th of Feb. to 3rd of Mar.. 
+- *2023.01*: &nbsp;🎉🎉 I will join <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) as a Research Scientist from 1st of Sep. 2023. 
+
 
 # 🔍 Researches
-- Inverse Probelms
 - Generative Models in Lattice Calculations
+  - Continuous Autoregressive Networks (CANs) for recognizing the KT phase transition [<a href='https://iopscience.iop.org/article/10.1088/0256-307X/39/12/120502'>1</a>];
+  - Fourier-Flow Model (FFM) for generating Feynman paths in multimode systems [<a href='https://arxiv.org/abs/2211.03470'>2</a>].
+- Inverse Probelms
+  - Reconstructing spectral functions from Lattice calculated propagators [<a href='https://doi.org/10.1103/PhysRevD.106.L051502'>3</a>, <a href='https://doi.org/10.1016/j.cpc.2022.108547'>4</a>];
+  - Rebuilding Equation of States(EoSs) from neutron star observations [<a href='https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/071'>5</a>, <a href='https://arxiv.org/abs/2209.08883'>6</a>].
 - AI for Science
+  - Machine learning for epidemiology and human behaviours [<a href='https://iopscience.iop.org/article/10.1088/2632-2153/ac0314/meta'>7</a>, <a href='https://doi.org/10.3390/e24020198'>8</a>];
+  - Machine learning for medical imaging [<a href='https://doi.org/10.1016/j.neurad.2021.07.006'>9</a>, <a href='https://arxiv.org/abs/2212.06725'>10</a>]. 
 
 # 💼 Experiences
 - *2021.10 - now*, **Postdoctoral Fellow**, Xidian-FIAS Joint Research Center, FIAS, Germany
