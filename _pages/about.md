@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Lingxiao Wang(王 凌霄). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
+I'm Lingxiao Wang(王 凌霄), now a PostDoc researcher in <a href='https://www.fias.science/en/theoretical-sciences/research-groups/kai-zhou/'>"Deepthinkers" group</a> (led by Dr. Kai Zhou). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
 
 See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdshggN2yv-A/view?usp=sharing'>CV</a> here.
 
-I have organized many "machind learning physics" seminars for physicists online, find the previous activities in our page <a href='https://sites.google.com/view/lingxiao/mlp-club'>MLP club</a>.
+I have organized many "machine learning physics" seminars for physicists online, find the previous activities in our page <a href='https://sites.google.com/view/lingxiao/mlp-club'>MLP club</a>.
 If you are seeking any form of academic cooperation, please feel free to contact me via lwang[at]fias.uni-frankfurt.de.
-
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
