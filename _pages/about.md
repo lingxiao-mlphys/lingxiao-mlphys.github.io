@@ -36,7 +36,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - Generative Models in Lattice Calculations
   - Continuous Autoregressive Networks (CANs) for recognizing the KT phase transition [<a href='https://iopscience.iop.org/article/10.1088/0256-307X/39/12/120502'>1</a>];
   - Fourier-Flow Model (FFM) for generating Feynman paths in multimode systems [<a href='https://arxiv.org/abs/2211.03470'>2</a>].
-- Inverse Probelms
+- Inverse Problems
   - Reconstructing spectral functions from Lattice calculated propagators [<a href='https://doi.org/10.1103/PhysRevD.106.L051502'>3</a>, <a href='https://doi.org/10.1016/j.cpc.2022.108547'>4</a>];
   - Rebuilding Equation of States(EoSs) from neutron star observations [<a href='https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/071'>5</a>, <a href='https://arxiv.org/abs/2209.08883'>6</a>].
 - AI for Science
