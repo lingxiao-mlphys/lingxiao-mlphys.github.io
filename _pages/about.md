@@ -28,14 +28,15 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 # 🔥 News
-- *2023.02*: &nbsp;🚆🚆 I will attend the workshop <a href='https://indico.ph.tum.de/event/7116/'>"Machine Learning approaches in Lattice QCD"</a> at TUM-IAS from 27th of Feb. to 3rd of Mar.. 
+- *2023.03*: &nbsp;🎉🎉 Our new work of "Fourier-Flow Model" has been published on  <a href='https://doi.org/10.1103/PhysRevD.107.056001'> Phys. Rev. D </a>.
+- *2023.02*: &nbsp;🚆🚆 I attended the workshop <a href='https://indico.ph.tum.de/event/7116/'>"Machine Learning approaches in Lattice QCD"</a> at TUM-IAS from 27th of Feb. to 3rd of Mar.. 
 - *2023.01*: &nbsp;🎉🎉 I will join <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) as a Research Scientist from 1st of Sep. 2023. 
 
 
 # 🔍 Researches
 - Generative Models in Lattice Calculations
   - Continuous Autoregressive Networks (CANs) for recognizing the KT phase transition [<a href='https://iopscience.iop.org/article/10.1088/0256-307X/39/12/120502'>1</a>];
-  - Fourier-Flow Model (FFM) for generating Feynman paths in multimode systems [<a href='https://arxiv.org/abs/2211.03470'>2</a>].
+  - Fourier-Flow Model (FFM) for generating Feynman paths in multimode systems [<a href='https://doi.org/10.1103/PhysRevD.107.056001'>2</a>].
 - Inverse Problems
   - Reconstructing spectral functions from Lattice calculated propagators [<a href='https://doi.org/10.1103/PhysRevD.106.L051502'>3</a>, <a href='https://doi.org/10.1016/j.cpc.2022.108547'>4</a>];
   - Rebuilding Equation of States(EoSs) from neutron star observations [<a href='https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/071'>5</a>, <a href='https://arxiv.org/abs/2209.08883'>6</a>].
