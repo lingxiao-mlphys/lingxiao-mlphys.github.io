@@ -28,7 +28,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Our new work of "Identifying lightning structures via machine learning" has been published on  <a href='https://authors.elsevier.com/a/1gl7k3QI%7EFZgXf'> Chaos, Solitons & Fractals </a>.
+- *2023.03*: &nbsp;🎉🎉 Our new work of "Identifying lightning structures via machine learning" has been published on  <a href='https://authors.elsevier.com/a/1gl7k3QI%7EFZgXf'> Chaos, Solitons & Fractals </a>. It was also featured on the FIAS's  <a href='https://fias.news/en/news-publicity/algorithms-illuminate-lightning-structures/'> homepage </a>!
 - *2023.03*: &nbsp;🎉🎉 Our new work of "Fourier-Flow Model" has been published on  <a href='https://doi.org/10.1103/PhysRevD.107.056001'> Phys. Rev. D </a>.
 - *2023.02*: &nbsp;🚆🚆 I attended the workshop <a href='https://indico.ph.tum.de/event/7116/'>"Machine Learning approaches in Lattice QCD"</a> at TUM-IAS from 27th of Feb. to 3rd of Mar.. 
 - *2023.01*: &nbsp;🎉🎉 I will join <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) as a Research Scientist from 1st of Sep. 2023. 
@@ -43,7 +43,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
   - Rebuilding Equation of States(EoSs) from neutron star observations [<a href='https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/071'>5</a>, <a href='https://arxiv.org/abs/2209.08883'>6</a>].
 - AI for Science
   - Machine learning for epidemiology and human behaviours [<a href='https://iopscience.iop.org/article/10.1088/2632-2153/ac0314/meta'>7</a>, <a href='https://doi.org/10.3390/e24020198'>8</a>];
-  - Machine learning for medical imaging [<a href='https://doi.org/10.1016/j.neurad.2021.07.006'>9</a>, <a href='https://arxiv.org/abs/2212.06725'>10</a>]. 
+  - Machine learning for lightning data [<a href='https://authors.elsevier.com/a/1gl7k3QI%7EFZgXf'>9</a>] and medical imaging [<a href='https://doi.org/10.1016/j.neurad.2021.07.006'>10</a>, <a href='https://arxiv.org/abs/2212.06725'>11</a>]. 
 
 # 💼 Experiences
 - *2021.10 - now*, **Postdoctoral Fellow**, Xidian-FIAS Joint Research Center, FIAS, Germany
