@@ -28,7 +28,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Our new work of "Identifying lightning structures via machine learning" has been published on  <a href='https://authors.elsevier.com/a/1gl7k3QI%7EFZgXf'> Chaos, Solitons & Fractals </a>. It was also featured on the FIAS's  <a href='https://fias.news/en/news-publicity/algorithms-illuminate-lightning-structures/'> homepage </a>!
+- *2023.03*: &nbsp;🎉🎉 Our new review paper "Exploring QCD matter in extreme conditions with Machine Learning" was posted on <a href='https://arxiv.org/abs/2303.15136'>arXiv:2303.15136</a>. It aims to introduce machine learning approaches to our community comprehensively.
+- *2023.03*: &nbsp;🎉🎉 Our new work of "Identifying lightning structures via machine learning" has been published on  <a href='https://authors.elsevier.com/a/1gl7k3QI%7EFZgXf'> Chaos, Solitons & Fractals </a>. 📢📢 It was also featured on the FIAS's  <a href='https://fias.news/en/news-publicity/algorithms-illuminate-lightning-structures/'> homepage </a>, and reported by the media of Germany, e.g., <a href='https://www.faz.net/aktuell/rhein-main/frankfurt/kuenstliche-intelligenz-klaert-struktur-von-blitzen-auf-18777770.html'> FAZ </a> and <a href='https://main-riedberg.de/fias-algorithmen-erhellen-blitzstrukturen/'> Main Riedberg </a>.
 - *2023.03*: &nbsp;🎉🎉 Our new work of "Fourier-Flow Model" has been published on  <a href='https://doi.org/10.1103/PhysRevD.107.056001'> Phys. Rev. D </a>.
 - *2023.02*: &nbsp;🚆🚆 I attended the workshop <a href='https://indico.ph.tum.de/event/7116/'>"Machine Learning approaches in Lattice QCD"</a> at TUM-IAS from 27th of Feb. to 3rd of Mar.. 
 - *2023.01*: &nbsp;🎉🎉 I will join <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) as a Research Scientist from 1st of Sep. 2023. 
