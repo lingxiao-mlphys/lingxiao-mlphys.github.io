@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Lingxiao Wang(王 凌霄), now a  <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist(PI) in RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム), also a visiting scholar at Institute of Modern Physics(IMP) in Fudan University. My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
+I'm Lingxiao Wang(王 凌霄), now a  <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist(PI) in RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior.
 
 See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdshggN2yv-A/view?usp=sharing'>CV</a> here.
 
@@ -20,7 +20,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 I start working as a Research Scientist(PI) in <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) from Jan. 2024.
+- *2024.03*: &nbsp;🎉🎉 I start working as a Research Scientist(PI) in <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) from Mar. 2024.
 - *2023.12*: &nbsp;🎉🎉 I start working as a visiting scholar at Institute of Modern Physics(IMP) in Fudan University for two months.
 - *2023.12*: &nbsp;🚆🚆 I attended the conference of  <a href='https://indico.ihep.ac.cn/event/19910/program'> “The 15th Workshop on QCD Phase Transition and Relativistic Heavy-Ion Physics (QPT 2023)” </a> and gave a plenary talk of <a href='https://indico.ihep.ac.cn/event/19910/contributions/145736/'> "Machine Learning for QCD Matter" </a>.
 - *2023.10*: &nbsp;🚆🚆 I visited many intitutions in China (SCNU, Tsinghua Uni. and CCNU), and attended the conference of  <a href='https://indico.ihep.ac.cn/event/19002/contributions/142234/'> “第三届中国格点量子色动力学研讨会” </a>.
@@ -48,7 +48,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
   - Machine learning for lightning data [<a href='https://authors.elsevier.com/a/1gl7k3QI%7EFZgXf'>3</a>] and medical imaging [<a href='https://doi.org/10.1016/j.neurad.2021.07.006'>2</a>, <a href='https://arxiv.org/abs/2212.06725'>1</a>]. 
 
 # 💼 Experiences
-- *2024.01 - present*, **Research Scientist**, RIKEN-iTHEMS, Japan
+- *2024.03 - present*, **Research Scientist**, RIKEN-iTHEMS, Japan
 - *2023.12 - 2024.02*, **Visiting Scholar**, Institute of Modern Physics(IMP) in Fudan University, China
 - *2020.09 - 2023.12*, **Postdoctoral Researcher**, Frankfurt Institute for Advanced Studies, Germany
 - *2021.10 - 2023.10*, **Postdoctoral Fellow**, Xidian-FIAS Joint Research Center, FIAS, Germany
