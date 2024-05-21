@@ -24,6 +24,7 @@ If you are seeking any form of academic cooperation, please feel free to contact
 - *2024.05*: &nbsp;🚆🚆 I attended the workshop of <a href='https://indico.pnp.ustc.edu.cn/event/1435/overview'>"Spicy Gluons (胶麻) 2024"</a> in Hefei from 15th to 18th May, and gave a talk on <a href = 'https://indico.pnp.ustc.edu.cn/event/1435/contributions/11270/attachments/4021/6296/1.1_lingxiao.pdf'>"Deep Learning for Exploring QCD Matter"</a>.
 - *2024.04*: &nbsp;🎉🎉 "DEEP-IN" working group has been established at RIKEN-iTHEMS, the <a href= 'https://ithems.riken.jp/en/news/deep-in-working-group-kick-off-meeting'>kick-off meeting</a> was held on 23 of April.
 - *2024.03*: &nbsp;🎉🎉 I start working as a Research Scientist(PI) in <a href='https://ithems.riken.jp/en'>RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム) from Mar. 2024.
+
 <!-- 
 - *2023.12*: &nbsp;🎉🎉 I start working as a visiting scholar at Institute of Modern Physics(IMP) in Fudan University for two months.
 - *2023.12*: &nbsp;🚆🚆 I attended the conference of  <a href='https://indico.ihep.ac.cn/event/19910/program'> “The 15th Workshop on QCD Phase Transition and Relativistic Heavy-Ion Physics (QPT 2023)” </a> and gave a plenary talk of <a href='https://indico.ihep.ac.cn/event/19910/contributions/145736/'> "Machine Learning for QCD Matter" </a>.
