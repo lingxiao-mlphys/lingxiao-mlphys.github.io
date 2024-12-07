@@ -1,7 +1,12 @@
 ---
+<<<<<<< HEAD
 permalink: /archive/
 title: My Archive
 layout: single
+=======
+permalink: /
+title: ""
+>>>>>>> parent of db1188c (remove the archive page)
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -10,6 +15,10 @@ redirect_from:
 ---
 
 # Archive
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of db1188c (remove the archive page)
 - *2023.12*: &nbsp;🎉🎉 I start working as a visiting scholar at Institute of Modern Physics(IMP) in Fudan University for two months.
 - *2023.12*: &nbsp;🚆🚆 I attended the conference of  <a href='https://indico.ihep.ac.cn/event/19910/program'> “The 15th Workshop on QCD Phase Transition and Relativistic Heavy-Ion Physics (QPT 2023)” </a> and gave a plenary talk of <a href='https://indico.ihep.ac.cn/event/19910/contributions/145736/'> "Machine Learning for QCD Matter" </a>.
 - *2023.10*: &nbsp;🚆🚆 I visited many intitutions in China (SCNU, Tsinghua Uni. and CCNU), and attended the conference of  <a href='https://indico.ihep.ac.cn/event/19002/contributions/142234/'> “第三届中国格点量子色动力学研讨会” </a>.
