@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Lingxiao Wang(王 凌霄), now a  <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist(PI) in RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., Nuclear Matter, Lattice QCD, etc.), Medical AI and Human Behavior. See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdshggN2yv-A/view?usp=sharing'>CV</a> here.
+I'm Lingxiao Wang(王 凌霄), now a  <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist(PI) in RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., QCD Matter, Lattice QCD, etc.), Medical AI and Human Behavior. See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdshggN2yv-A/view?usp=sharing'>CV</a> here.
 
 Now, I'm running a working group of <a href='https://ithems.riken.jp/en/about/working-groups/deep-in-wg'>"DEEP-IN" in RIKEN-iTHEMS</a>, which aims to develop deep learning models for inverse problems in physical sciences.
 
@@ -20,8 +20,8 @@ If you are seeking any form of academic cooperation, please feel free to contact
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🚆🚆 I am invited to attend the workshop of <a href='https://events.ift.uni.wroc.pl/event/75/'>"EMMI Workshop at the University of Wrocław - Aspects of Criticality II"</a> in Wrocław, Poland from 2nd to 4th July, and gave a plenary talk on <a href = 'https://events.ift.uni.wroc.pl/event/75/contributions/335/'>"Exploring properties of extreme matter with machine learning"</a>.
-- *2024.06*: &nbsp;🚆🚆 I visited FIAS, GSI and Goethe University in Frankfurt.
+
+- *2024.07*: &nbsp;🚆🚆 I was invited to attend the workshop of <a href='https://events.ift.uni.wroc.pl/event/75/'>"EMMI Workshop at the University of Wrocław - Aspects of Criticality II"</a> in Wrocław, Poland from 2nd to 4th July, and gave a plenary talk on <a href = 'https://events.ift.uni.wroc.pl/event/75/contributions/335/'>"Exploring properties of extreme matter with machine learning"</a>.
 - *2024.05*: &nbsp;🚆🚆 I attended the workshop of <a href='https://indico.ectstar.eu/event/206/'>"Machine Learning and the Renormalization Group"</a> in ECT*, Italy from 27th to 31th May, and gave a talk on <a href = 'https://indico.ectstar.eu/event/206/contributions/4782/'>"Action estimation with continuous-mixture autoregressive networks"</a>.
 - *2024.05*: 🎉🎉 Our new work of "Diffusion models as stochastic quantization in lattice field theory" has been published on  <a href='https://link.springer.com/article/10.1007/JHEP05(2024)060'>  Journal of High Energy Physics </a>.
 - *2024.05*: &nbsp;🚆🚆 I attended the workshop of <a href='https://indico.pnp.ustc.edu.cn/event/1435/overview'>"Spicy Gluons (胶麻) 2024"</a> in Hefei from 15th to 18th May, and gave a plenary talk on <a href = 'https://indico.pnp.ustc.edu.cn/event/1435/contributions/11270/attachments/4021/6296/1.1_lingxiao.pdf'>"Deep Learning for Exploring QCD Matter"</a>.
