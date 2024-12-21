@@ -15,7 +15,7 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  # get google_site_verification from https://search.google.de/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -27,10 +27,10 @@ author:
   location         : "Wako, Japan"
   employer         : "RIKEN-iTHEMS"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ujb-RpkAAAAJ"
+  googlescholar    : "https://scholar.google.de/citations?user=ujb-RpkAAAAJ"
   email            : "lwang@fias.uni-frankfurt.de"
   researchgate     : # "https://www.researchgate.net/profile/Lingxiao-Wang-4"
-  uri              : 
+  uri              : "https://ithems.riken.jp/en/members/lingxiao-wang"
   bitbucket        :
   codepen          :
   dribbble         :
