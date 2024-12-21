@@ -1,5 +1,5 @@
 ---
-permalink: /archive
+permalink: /#-archives
 title: "Archive"
 excerpt: ""
 author_profile: true
