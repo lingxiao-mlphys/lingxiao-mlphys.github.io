@@ -1,5 +1,5 @@
 ---
-permalink: /#-archives
+permalink: /archive/
 title: "Archive"
 excerpt: ""
 author_profile: true
@@ -7,6 +7,9 @@ redirect_from:
   - /archive/
   - /archive.html
 ---
+
+<span class='anchor' id='archive'></span>
+
 
 # 📰 Archive
 
