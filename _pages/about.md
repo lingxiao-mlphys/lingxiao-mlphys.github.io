@@ -27,32 +27,33 @@ I have organized many "machine learning physics" seminars for physicists online,
 
 # 🔍 Researches
 - Generative Models in Lattice Calculations
-1. Aarts, G., Habibi, D. E., Wang, L. & Zhou, K. On learning higher-order cumulants in diffusion models. Preprint at https://doi.org/10.48550/arXiv.2410.21212 (2024).
-2. Zhu, Q., Aarts, G., Wang, W., Zhou, K. & Wang, L. Diffusion models for lattice gauge field simulations. in ‘Machine Learning and the Physical Sciences’ workshop (arXiv, 2024). doi:10.48550/arXiv.2410.19602.
-3. Xu, T., Wang, L., He, L., Zhou, K. & Jiang, Y. Building imaginary-time thermal filed theory with artificial neural networks. Chin. Phys. C (2024) doi:10.48550/arXiv.2405.10493.
-4. Wang, L., Aarts, G. & Zhou, K. Diffusion models as stochastic quantization in lattice field theory. J. High Energ. Phys. 2024, 60 (2024).
-5. Chen, S. et al. Fourier-flow model generating Feynman paths. Phys. Rev. D 107, 056001 (2023).
-6. Wang, L., Jiang, Y., He, L. & Zhou, K. Continuous-mixture autoregressive networks learning the Kosterlitz-Thouless transition. Chin. Phys. Lett. 39, 120502 (2022).
+1. [Zhu, Q., Aarts, G., Wang, W., Zhou, K. & Wang, L. Physics-Conditioned Diffusion Models for Lattice Gauge Theory.](https://arxiv.org/abs/2502.05504) arXiv:2502.05504 [hep-lat] (2025).
+2. [Aarts, G., Habibi, D. E., Wang, L. & Zhou, K. On learning higher-order cumulants in diffusion models.](https://doi.org/10.48550/arXiv.2410.21212) Preprint (2024).
+3. [Xu, T., Wang, L., He, L., Zhou, K. & Jiang, Y. Building imaginary-time thermal filed theory with artificial neural networks.](https://doi.org/10.48550/arXiv.2405.10493) Chin. Phys. C (2024).
+4. Wang, L., Aarts, G. & Zhou, K. Diffusion models as stochastic quantization in lattice field theory. *J. High Energ. Phys.* **2024**, 60 (2024).
+5. Chen, S. et al. Fourier-flow model generating Feynman paths. *Phys. Rev. D* **107**, 056001 (2023).
+6. Wang, L., Jiang, Y., He, L. & Zhou, K. Continuous-mixture autoregressive networks learning the Kosterlitz-Thouless transition. *Chin. Phys. Lett.* **39**, 120502 (2022).
 
 - Inverse Problems
-1. Wang, L. Deep learning for exploring hadron–hadron interactions. Journal of Subatomic Particles and Cosmology 3, 100024 (2025).
-2. Wang, L. & Zhao, J. Learning Hadron Emitting Sources with Deep Neural Networks. Preprint at https://doi.org/10.48550/arXiv.2411.16343 (2024).
-3. Aarts, G. et al. Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics. Nat. Rev. Phys. (2025) doi:10.1038/s42254-024-00798-x.
-4. Soma, S., Wang, L., Shi, S., Stöcker, H. & Zhou, K. Reconstructing the neutron star equation of state from observational data via automatic differentiation. Phys. Rev. D 107, 083028 (2023).
-5. Shi, S., Wang, L. & Zhou, K. Rethinking the ill-posedness of the spectral function reconstruction — Why is it fundamentally hard and how Artificial Neural Networks can help. Comput. Phys. Commun. 282, 108547 (2023).
-6. Wang, L., Shi, S. & Zhou, K. Reconstructing spectral functions via automatic differentiation. Phys. Rev. D 106, L051502 (2022).
 
+1. Wang, L. Deep learning for exploring hadron–hadron interactions. *Journal of Subatomic Particles and Cosmology* **3**, 100024 (2025).
+2. [Wang, L. & Zhao, J. Learning Hadron Emitting Sources with Deep Neural Networks.](https://doi.org/10.48550/arXiv.2411.16343) Preprint (2024).
+3. [Aarts, G. et al. Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics.](https://doi.org/10.1038/s42254-024-00798-x) *Nat. Rev. Phys.* (2025).
+4. Soma, S., Wang, L., Shi, S., Stöcker, H. & Zhou, K. Reconstructing the neutron star equation of state from observational data via automatic differentiation. *Phys. Rev. D* **107**, 083028 (2023).
+5. Shi, S., Wang, L. & Zhou, K. Rethinking the ill-posedness of the spectral function reconstruction — Why is it fundamentally hard and how Artificial Neural Networks can help. *Comput. Phys. Commun.* **282**, 108547 (2023).
+6. Wang, L., Shi, S. & Zhou, K. Reconstructing spectral functions via automatic differentiation. *Phys. Rev. D* **106**, L051502 (2022).
 
 - AI for Science
-1. Xiao, H. et al. CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model. Preprint at https://doi.org/10.48550/arXiv.2405.04483 (2024).
-2. Zhou, S., Shi, R. & Wang, L. Extracting macroscopic quantities in crowd behaviour with deep learning. Phys. Scr. 99, 065213 (2024).
-3. Xiang, M., Yuan, H., Wang, L., Zhou, K. & Roskos, H. G. Amplitude/Phase Retrieval for Terahertz Holography with Supervised and Unsupervised Physics-Informed Deep Learning. IEEE Transactions on Terahertz Science and Technology 1–9 (2024) doi:10.1109/TTHZ.2024.3349482.
-4. Wang, L., Hare, B. M., Zhou, K., Stöcker, H. & Scholten, O. Identifying lightning structures via machine learning. Chaos Solitons and Fractals: the interdisciplinary journal of Nonlinear Science and Nonequilibrium and Complex Phenomena 170, 113346 (2023).
-5. Zhong, Y.-W. et al. Tumor radiomics signature for artificial neural network-assisted detection of neck metastasis in patient with tongue cancer. Journal of Neuroradiology 49, 213–218 (2022).
-6. Wang, L. et al. Machine learning spatio-temporal epidemiological model to evaluate Germany-county-level COVID-19 risk. Mach. Learn.: Sci. Technol. 2, 035031 (2021).
+
+1. [Xiao, H. et al. CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model.](https://doi.org/10.48550/arXiv.2405.04483) Preprint (2024).
+2. Zhou, S., Shi, R. & Wang, L. Extracting macroscopic quantities in crowd behaviour with deep learning. *Phys. Scr.* **99**, 065213 (2024).
+3. [Xiang, M., Yuan, H., Wang, L., Zhou, K. & Roskos, H. G. Amplitude/Phase Retrieval for Terahertz Holography with Supervised and Unsupervised Physics-Informed Deep Learning.](https://doi.org/10.1109/TTHZ.2024.3349482) *IEEE Transactions on Terahertz Science and Technology*, 1–9 (2024).
+4. Wang, L., Hare, B. M., Zhou, K., Stöcker, H. & Scholten, O. Identifying lightning structures via machine learning. *Chaos Solitons and Fractals: the interdisciplinary journal of Nonlinear Science and Nonequilibrium and Complex Phenomena* **170**, 113346 (2023).
+5. Zhong, Y.-W. et al. Tumor radiomics signature for artificial neural network-assisted detection of neck metastasis in patient with tongue cancer. *Journal of Neuroradiology* **49**, 213–218 (2022).
+6. Wang, L. et al. Machine learning spatio-temporal epidemiological model to evaluate Germany-county-level COVID-19 risk. *Mach. Learn.: Sci. Technol.* **2**, 035031 (2021).
 
 
-# 👨‍🎓 Members
+<!-- # 👨‍🎓 Members
 ## Postdocs
 ## Students
 D3
@@ -67,11 +68,11 @@ D1
 
 M2
 - Shuai Yang (co-advising, Xian Jiaotong University)
-- Jiaqing Chen (co-advising, Xian Jiaotong University)
+- Jiaqing Chen (co-advising, Xian Jiaotong University) -->
 
 
 # 💼 Experiences
-- *2025.06(expected) - *, **Assistant Professor**, the Univerisity of Tokyo, Japan
+<!-- - *2025.06(expected) -*, **Assistant Professor**, the Univerisity of Tokyo, Japan -->
 - *2024.03 - present*, **Research Scientist**, RIKEN-iTHEMS, Japan
 - *2023.12 - 2024.02*, **Visiting Scholar**, Institute of Modern Physics(IMP) in Fudan University, China
 - *2020.09 - 2023.12*, **Postdoctoral Researcher**, Frankfurt Institute for Advanced Studies, Germany
