@@ -27,21 +27,24 @@ I have organized many "machine learning physics" seminars for physicists online,
 
 # 🔍 Researches
 - Generative Models in Lattice Calculations
-1. [Zhu, Q., Aarts, G., Wang, W., Zhou, K. & Wang, L. Physics-Conditioned Diffusion Models for Lattice Gauge Theory.](https://arxiv.org/abs/2502.05504) arXiv:2502.05504 [hep-lat] (2025).
-2. [Aarts, G., Habibi, D. E., Wang, L. & Zhou, K. On learning higher-order cumulants in diffusion models.](https://doi.org/10.48550/arXiv.2410.21212) Preprint (2024).
-3. [Xu, T., Wang, L., He, L., Zhou, K. & Jiang, Y. Building imaginary-time thermal filed theory with artificial neural networks.](https://doi.org/10.48550/arXiv.2405.10493) Chin. Phys. C (2024).
-4. Wang, L., Aarts, G. & Zhou, K. Diffusion models as stochastic quantization in lattice field theory. *J. High Energ. Phys.* **2024**, 60 (2024).
-5. Chen, S. et al. Fourier-flow model generating Feynman paths. *Phys. Rev. D* **107**, 056001 (2023).
-6. Wang, L., Jiang, Y., He, L. & Zhou, K. Continuous-mixture autoregressive networks learning the Kosterlitz-Thouless transition. *Chin. Phys. Lett.* **39**, 120502 (2022).
+
+1. Zhu, Q., Aarts, G., Wang, W., Zhou, K. & Wang, L. Physics-Conditioned Diffusion Models for Lattice Gauge Theory. arXiv:2502.05504 [hep-lat] (2025).
+2. Aarts, G., Habibi, D. E., Wang, L. & Zhou, K. On learning higher-order cumulants in diffusion models. arXiv:2410.21212 [hep-lat] (2024).
+3. Xu, T., Wang, L., He, L., Zhou, K. & Jiang, Y. Building imaginary-time thermal filed theory with artificial neural networks. Chin. Phys. C 48, 103101 (2024).
+4. Wang, L., Aarts, G. & Zhou, K. Diffusion models as stochastic quantization in lattice field theory. JHEP 05, 060 (2024).
+5. Chen, S. et al. Fourier-flow model generating Feynman paths. Phys. Rev. D 107, 056001 (2023).
+6. Wang, L., Jiang, Y., He, L. & Zhou, K. Continuous-mixture autoregressive networks learning the Kosterlitz-Thouless transition. Chin. Phys. Lett. 39, 120502 (2022).
+
 
 - Inverse Problems
 
-1. Wang, L. Deep learning for exploring hadron–hadron interactions. *Journal of Subatomic Particles and Cosmology* **3**, 100024 (2025).
-2. [Wang, L. & Zhao, J. Learning Hadron Emitting Sources with Deep Neural Networks.](https://doi.org/10.48550/arXiv.2411.16343) Preprint (2024).
-3. [Aarts, G. et al. Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics.](https://doi.org/10.1038/s42254-024-00798-x) *Nat. Rev. Phys.* (2025).
-4. Soma, S., Wang, L., Shi, S., Stöcker, H. & Zhou, K. Reconstructing the neutron star equation of state from observational data via automatic differentiation. *Phys. Rev. D* **107**, 083028 (2023).
-5. Shi, S., Wang, L. & Zhou, K. Rethinking the ill-posedness of the spectral function reconstruction — Why is it fundamentally hard and how Artificial Neural Networks can help. *Comput. Phys. Commun.* **282**, 108547 (2023).
-6. Wang, L., Shi, S. & Zhou, K. Reconstructing spectral functions via automatic differentiation. *Phys. Rev. D* **106**, L051502 (2022).
+1. Wang, L. Deep learning for exploring hadron–hadron interactions. J. Subatomic Part. Cosmol. 3, 100024 (2025).
+2. Wang, L. & Zhao, J. Learning Hadron Emitting Sources with Deep Neural Networks. arXiv:2411.16343 [nucl-th] (2024).
+3. Soma, S., Wang, L., Shi, S., Stöcker, H. & Zhou, K. Reconstructing the neutron star equation of state from observational data via automatic differentiation. Phys. Rev. D 107, 083028 (2023).
+4. Shi, S., Wang, L. & Zhou, K. Rethinking the ill-posedness of the spectral function reconstruction — Why is it fundamentally hard and how Artificial Neural Networks can help. Comput. Phys. Commun. 282, 108547 (2023).
+5. Wang, L., Shi, S. & Zhou, K. Reconstructing spectral functions via automatic differentiation. Phys. Rev. D 106, L051502 (2022).
+6. Aarts, G. et al. Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics. Nat. Rev. Phys. (2025) doi:10.1038/s42254-024-00798-x.
+
 
 - AI for Science
 
