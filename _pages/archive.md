@@ -2,7 +2,7 @@
 layout: default
 permalink: /archive/
 title: "Archive"
-author_profile: true
+author_profile: false
 ---
 
 ## 2024
