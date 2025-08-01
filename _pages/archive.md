@@ -1,11 +1,9 @@
 ---
+layout: default
 permalink: /archive/
 title: "Archive"
-excerpt: ""
 author_profile: true
 ---
-
-<span class='anchor' id='archive'></span>
 
 ## 2024
 - *2024.07*: &nbsp;🚆🚆 I was invited to attend the workshop of <a href='https://events.ift.uni.wroc.pl/event/75/'>"EMMI Workshop at the University of Wrocław - Aspects of Criticality II"</a> in Wrocław, Poland from 2nd to 4th July, and gave a plenary talk on <a href = 'https://events.ift.uni.wroc.pl/event/75/contributions/335/'>"Exploring properties of extreme matter with machine learning"</a>.
