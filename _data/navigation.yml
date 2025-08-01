@@ -3,17 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/news"
-
   - title: "Researches"
-    url: "/#-researches"
+    url: "/researches"
 
-  - title: "Experiences"
-    url: "/#-experiences"
-
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "CV"
+    url: "/cv"
 
   - title: "Archive"
     url: "/archive/"

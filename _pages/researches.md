@@ -1,18 +1,9 @@
 ---
 layout: default
-permalink: /news/
-title: "News"
+permalink: /researches/
+title: "Researches"
 author_profile: true
 ---
-
-
-# 🔥 News
-
-- *2025.03*: &nbsp;🎉🎉 I was awarded a new grant "QCD物理の逆問題を解くための物理駆動型深層学習" in <a href='https://mlphys.scphys.kyoto-u.ac.jp/organization/#sec_koubou'> 学術変革領域研究（Ａ）- 公募研究</a> from 文部科学省科学研究費補助金.
-
-- *2025.01*: &nbsp;🎉🎉 Our review paper "<a href='https://arxiv.org/abs/2501.05580'>Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics</a>" got publihsed on  "<a href='https://www.nature.com/articles/s42254-024-00798-x'> Nature Reviews Physics</a>". It provides a structured and concise overview of how incorporating prior knowledge such as symmetry, continuity and equations into deep learning designs can address diverse inverse problems across different physical sciences.
-
-- *2024.12*: &nbsp;🎉🎉 Our work "<a href='http://arxiv.org/abs/2410.21212'>Higher-order cumulants in diffusion models</a>" got the Best 'Physics for AI' Paper Award (Sponsored by Apple) in <a href='https://ml4physicalsciences.github.io/2024/'>"Machine Learning and the Physical Sciences" Workshop</a> at the 38th conference on Neural Information Processing Systems (NeurIPS), December 15, 2024.
 
 
 # 🔍 Researches

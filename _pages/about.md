@@ -10,11 +10,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Lingxiao Wang(王 凌霄), now a  <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist(PI) in RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., QCD Matter, Lattice QCD, etc.), Medical AI and Human Behavior. See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdshggN2yv-A/view?usp=sharing'>CV</a> here.
+I'm Lingxiao Wang(王 凌霄), now a  <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist(PI) in RIKEN-iTHEMS</a> (理化学研究所 数理創造プログラム). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., QCD Matter, Lattice QCD, etc.), Medical AI and Human Behavior. 
 
 Now, I'm running a working group of <a href='https://ithems.riken.jp/en/about/working-groups/deep-in-wg'>"DEEP-IN" in RIKEN-iTHEMS</a>, which aims to develop deep learning models for inverse problems in physical sciences.
 
 I have organized many "machine learning physics" seminars for physicists online, find the previous activities in our page <a href='https://sites.google.com/view/deep-in-wg/achieve'>MLP club</a>. If you are seeking any form of academic cooperation, please feel free to contact me via lwang[at]fias.uni-frankfurt.de.
+
+
+# 🔥 News
+
+- *2025.03*: &nbsp;🎉🎉 I was awarded a new grant "QCD物理の逆問題を解くための物理駆動型深層学習" in <a href='https://mlphys.scphys.kyoto-u.ac.jp/organization/#sec_koubou'> 学術変革領域研究（Ａ）- 公募研究</a> from 文部科学省科学研究費補助金.
+
+- *2025.01*: &nbsp;🎉🎉 Our review paper "<a href='https://arxiv.org/abs/2501.05580'>Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics</a>" got publihsed on  "<a href='https://www.nature.com/articles/s42254-024-00798-x'> Nature Reviews Physics</a>". It provides a structured and concise overview of how incorporating prior knowledge such as symmetry, continuity and equations into deep learning designs can address diverse inverse problems across different physical sciences.
+
+- *2024.12*: &nbsp;🎉🎉 Our work "<a href='http://arxiv.org/abs/2410.21212'>Higher-order cumulants in diffusion models</a>" got the Best 'Physics for AI' Paper Award (Sponsored by Apple) in <a href='https://ml4physicalsciences.github.io/2024/'>"Machine Learning and the Physical Sciences" Workshop</a> at the 38th conference on Neural Information Processing Systems (NeurIPS), December 15, 2024.
 
 
 <!-- # 👨‍🎓 Members
@@ -33,19 +42,3 @@ D1
 M2
 - Shuai Yang (co-advising, Xian Jiaotong University)
 - Jiaqing Chen (co-advising, Xian Jiaotong University) -->
-
-
-# 💼 Experiences
-<!-- - *2025.06(expected) -*, **Assistant Professor**, the Univerisity of Tokyo, Japan -->
-- *2024.03 - present*, **Research Scientist**, RIKEN-iTHEMS, Japan
-- *2023.12 - 2024.02*, **Visiting Scholar**, Institute of Modern Physics(IMP) in Fudan University, China
-- *2020.09 - 2023.12*, **Postdoctoral Researcher**, Frankfurt Institute for Advanced Studies, Germany
-- *2021.10 - 2023.10*, **Postdoctoral Fellow**, Xidian-FIAS Joint Research Center, FIAS, Germany
-- *2021.03 - 2023.03*, **Research Assistant**, Institute of Physics, Goethe University, Germnay 
-- *2018.09 - 2020.09*, **Research Assistant**, Department of Physics, Tsinghua University , China 
-
-# 📖 Educations
-- *2015.09 - 2020.06*, **Ph.D.**, Department of Physics, Tsinghua University , Beijing, China
-- *2018.10 - 2019.10*, **Joint Ph.D.**, Physics Department, University of Tokyo , Tokyo, Japan
-- *2012.09 - 2015.06*, **B.S.**, School of Physics, Dalian University of Technology, Dalian, China
-- *2011.09 - 2012.06*, School of Chemistry, Dalian University of Technology, Dalian, China
