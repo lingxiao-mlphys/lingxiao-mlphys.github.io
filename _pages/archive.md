@@ -7,7 +7,6 @@ author_profile: true
 
 <span class='anchor' id='archive'></span>
 
-# 📰 Archive
 ## 2024
 - *2024.07*: &nbsp;🚆🚆 I was invited to attend the workshop of <a href='https://events.ift.uni.wroc.pl/event/75/'>"EMMI Workshop at the University of Wrocław - Aspects of Criticality II"</a> in Wrocław, Poland from 2nd to 4th July, and gave a plenary talk on <a href = 'https://events.ift.uni.wroc.pl/event/75/contributions/335/'>"Exploring properties of extreme matter with machine learning"</a>.
 - *2024.05*: &nbsp;🚆🚆 I attended the workshop of <a href='https://indico.ectstar.eu/event/206/'>"Machine Learning and the Renormalization Group"</a> in ECT*, Italy from 27th to 31th May, and gave a talk on <a href = 'https://indico.ectstar.eu/event/206/contributions/4782/'>"Action estimation with continuous-mixture autoregressive networks"</a>.
