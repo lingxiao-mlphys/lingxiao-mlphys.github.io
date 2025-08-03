@@ -272,12 +272,12 @@ GEM
 PLATFORMS
   arm64-darwin-22
   universal-darwin-19
+  universal-darwin-24
   x86_64-linux
 
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll
   jekyll-feed
   jekyll-sitemap
   webrick (~> 1.7)

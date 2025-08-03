@@ -18,7 +18,7 @@ I have organized many "machine learning physics" seminars for physicists online,
 
 
 <figure style="text-align: center;">
-  <img src="/images/PhyXAI.png" style="max-width: 100%; height: auto;">
+  <img src="/images/PhyXAI.png" style="max-width: 70%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 10px;">
     <strong>Multi-Scale Physically Explainable AI for Scientific Discovery.</strong><br>
   </figcaption>
@@ -26,7 +26,6 @@ I have organized many "machine learning physics" seminars for physicists online,
 
 
 # 🔥 News
-
 
 - *2025.07*: &nbsp;🎉🎉 I was approved to start a new position as Assistant Professor in the Instite of Physics Intelligence(iPI) at the UTokyo from November 2025 under the support of <a href='https://www.jst.go.jp/program/boost/yr/research/index.html'>"JST-BOOST Program 次世代AI人材育成プログラム（若手研究者支援））"</a>.
 
@@ -37,21 +36,3 @@ I have organized many "machine learning physics" seminars for physicists online,
 - *2025.01*: &nbsp;🎉🎉 Our review paper "<a href='https://arxiv.org/abs/2501.05580'>Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics</a>" got publihsed on  "<a href='https://www.nature.com/articles/s42254-024-00798-x'> Nature Reviews Physics</a>". It provides a structured and concise overview of how incorporating prior knowledge such as symmetry, continuity and equations into deep learning designs can address diverse inverse problems across different physical sciences.
 
 - *2024.12*: &nbsp;🎉🎉 Our work "<a href='http://arxiv.org/abs/2410.21212'>Higher-order cumulants in diffusion models</a>" got the Best 'Physics for AI' Paper Award (Sponsored by Apple) in <a href='https://ml4physicalsciences.github.io/2024/'>"Machine Learning and the Physical Sciences" Workshop</a> at the 38th conference on Neural Information Processing Systems (NeurIPS), December 15, 2024.
-
-
-<!-- # 👨‍🎓 Members
-## Postdocs
-## Students
-D3
-- Qianteng Zhu (IPA student, Shanghai Jiao Tong University)
-
-D2
-- Shuang Guo (co-advising, Fudan University)
-
-D1
-- Jing-Yang Li (JRA student, KEK)
-- Jingzong Zhang (co-advising, Fudan University)
-
-M2
-- Shuai Yang (co-advising, Xian Jiaotong University)
-- Jiaqing Chen (co-advising, Xian Jiaotong University) -->
