@@ -15,11 +15,11 @@ author_profile: true
 
 ## Students
 
-- Qianteng Zhu (D2,IPA student, Shanghai Jiao Tong University)
-- Jin-Yang Li (D2, JRA student, KEK)
+- Qianteng Zhu (D2, IPA student, Shanghai Jiao Tong University)
+- Jinyang Li (D2, co-advising, JRA student, KEK)
 - Shuai Yang (D1, co-advising, Xian Jiaotong University)
 - Jiaqing Chen (M3, co-advising, Xian Jiaotong University)
-- JingZong Zhang (D1, co-advising, Fudan University)
+- Jing-Zong Zhang (D1, co-advising, Fudan University)
 
 
 

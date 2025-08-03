@@ -18,7 +18,7 @@ I have organized many "machine learning physics" seminars for physicists online,
 
 
 <figure style="text-align: center;">
-  <img src="/images/PhyXAI.png" style="max-width: 70%; height: auto;">
+  <img src="/images/PhyXAI.png" style="max-width: 50%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 10px;">
     <strong>Multi-Scale Physically Explainable AI for Scientific Discovery.</strong><br>
   </figcaption>
