@@ -9,7 +9,7 @@ See my latest <a href='https://drive.google.com/file/d/1eFt4x3EYlrv9-_7SWEHKwdsh
 
 
 # 💼 Experiences
-<!-- - *2025.06(expected) -*, **Assistant Professor**, the Univerisity of Tokyo, Japan -->
+- *2025.11(expected) -*, **Assistant Professor**, the Univerisity of Tokyo, Japan
 - *2024.03 - present*, **Research Scientist**, RIKEN-iTHEMS, Japan
 - *2023.12 - 2024.02*, **Visiting Scholar**, Institute of Modern Physics(IMP) in Fudan University, China
 - *2020.09 - 2023.12*, **Postdoctoral Researcher**, Frankfurt Institute for Advanced Studies, Germany
