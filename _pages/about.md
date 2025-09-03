@@ -27,6 +27,11 @@ I have organized many "machine learning physics" seminars for physicists online,
 
 # 🔥 News
 
+
+- *2025.08.25 - 09.05*: &nbsp;✈️✈️ I was invited to attend the <a href='https://www.munich-iapbp.de/activities/activities-2025/machine-learning'> "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics" Workshop</a> at Munich Institute for Astro-, Particle and BioPhysics(MIAPbP), Germany.
+
+- *2025.08.17 - 08.20*: &nbsp;🚆🚆 I was invited to give a lecture in <a href='https://indico.ihep.ac.cn/event/26610/'> 第三届量子场论前沿研讨会(the 3rd Workshop on Frontiers of Quantum Field Theory)</a> at Guiyang, China.
+
 - *2025.07*: &nbsp;🎉🎉 I was approved to start a new position as Assistant Professor in the Instite of Physics Intelligence(iPI) at the UTokyo from November 2025 under the support of <a href='https://www.jst.go.jp/program/boost/yr/research/index.html'>"JST-BOOST Program 次世代AI人材育成プログラム（若手研究者支援））"</a>.
 
 - *2025.02 - 2025.05*: &nbsp;👶 I was in Parental Leave for my child.

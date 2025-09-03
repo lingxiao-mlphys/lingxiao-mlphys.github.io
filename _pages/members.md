@@ -21,5 +21,15 @@ author_profile: true
 - Jiaqing Chen (M3, co-advising, Xian Jiaotong University)
 - Jing-Zong Zhang (D1, co-advising, Fudan University)
 
+## Collaborators
+
+- HENPG(Prof. Pengfei Zhuang, Prof. Shuzhe Shi, etc.) @Tsinghua University
+- HENPG(Prof. Mei Huang) @UCAS
+- Prof.Gert Aarts's Group @Swansea University
+- IMP @Fudan University
+- ITP(Prof. Xu Feng) @Peking University
+- Atomspheric and Oceanic Sciences Group(Prof. Feng Zhang) @Fudan University
+- You
+
 
 
