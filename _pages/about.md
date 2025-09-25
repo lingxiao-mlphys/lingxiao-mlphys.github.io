@@ -10,11 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Lingxiao Wang(王 凌霄), now a  <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist（研究員） in RIKEN-iTHEMS</a> (理化学研究所 数理創造研究センター). My research interest includes Machine Learning in Physics (especially high energy nuclear physics, e.g., QCD Matter, Lattice QCD, etc.), Collective Behavior and Atomspheric Sciences. 
+I'm Lingxiao Wang (王 凌霄), currently a <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist（研究員） at RIKEN iTHEMS</a> (理化学研究所 数理創造研究センター). Starting from November 2025, I will also serve as an Assistant Professor at  <a href='https://www.phys.s.u-tokyo.ac.jp/en/lp/ipi/'>the Institute for Physics of Intelligence (iPi), the University of Tokyo</a>.
 
-Now, I'm the main facilitator of a working group of <a href='https://ithems.riken.jp/en/about/working-groups/deep-in-wg'>"DEEP-IN" in RIKEN-iTHEMS</a>, which aims to develop deep learning models for solving inverse problems in sciences.
+My research interests span **Machine Learning in Physics**—particularly in **Quantum Chromodynamics (QCD)** (e.g., QCD matter, Lattice QCD, etc.)—as well as **Collective Behavior** and **Atmospheric Sciences**.  
 
-I have organized many "machine learning physics" seminars for physicists online, find the previous activities in our page <a href='https://sites.google.com/view/deep-in-wg/achieve'>MLP club</a>. If you are seeking any form of academic cooperation, please feel free to contact me via lingxiaowang[at]foxmail.com.
+At RIKEN iTHEMS, I am the main facilitator of the <a href='https://ithems.riken.jp/en/about/working-groups/deep-in-wg'>"DEEP-IN" working group</a>, which focuses on developing deep learning models to tackle inverse problems in science. I have also organized numerous *Machine Learning in Physics* seminars for the community; past activities can be found on our <a href='https://sites.google.com/view/deep-in-wg/achieve'>MLP club page</a>.  
+
+If you are interested in academic collaboration, please feel free to contact me via **lingxiaowang[at]foxmail.com**.
 
 
 <figure style="text-align: center;">
@@ -27,6 +29,7 @@ I have organized many "machine learning physics" seminars for physicists online,
 
 # 🔥 News
 
+- *2025.09.24 -25*: &nbsp;🚆🚆 Attend the R7年度学術変革A「学習物理学」領域会議プログラム at the University of Tokyo.
 
 - *2025.08.25 - 09.05*: &nbsp;✈️✈️ I was invited to attend the <a href='https://www.munich-iapbp.de/activities/activities-2025/machine-learning'> "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics" Workshop</a> at Munich Institute for Astro-, Particle and BioPhysics(MIAPbP), Germany.
 

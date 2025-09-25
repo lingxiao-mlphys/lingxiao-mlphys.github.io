@@ -6,6 +6,9 @@ main:
   - title: "Researches"
     url: "/researches"
 
+  - title: "Members"
+    url: "/members/"
+
   - title: "CV"
     url: "/cv"
 

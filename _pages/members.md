@@ -5,15 +5,16 @@ title: "Members"
 author_profile: true
 ---
 
-# 👨‍🎓 Members
+# ⚛️ *PhyXAI* Members
 
+We are a group of researchers working on the intersection of physics and artificial intelligence, focusing on physically explainable AI (*PhyXAI*) and its applications in various scientific domains.
 
-## Postdocs
+## Researchers
 - <a href='https://axect.github.io/'> Tae-Geun Kim</a> (Fudan-RIKEN Joint Postdoctoral Fellow)
 - <a href='https://leefp29.github.io/'> Fu-Peng Li </a> (Fudan-RIKEN Joint Postdoctoral Fellow)
-- TBA
+- TBA (JST-BOOST Special Appointed Researcher)
 
-## Students
+## Junior Researchers
 
 - Qianteng Zhu (D2, IPA student, Shanghai Jiao Tong University)
 - Jinyang Li (D2, co-advising, JRA student, KEK)
@@ -24,11 +25,11 @@ author_profile: true
 ## Collaborators
 
 - HENPG(Prof. Pengfei Zhuang, Prof. Shuzhe Shi, etc.) @Tsinghua University
-- HENPG(Prof. Mei Huang) @UCAS
-- Prof.Gert Aarts's Group @Swansea University
-- IMP @Fudan University
-- ITP(Prof. Xu Feng) @Peking University
-- Atomspheric and Oceanic Sciences Group(Prof. Feng Zhang) @Fudan University
+- <a href='http://pyweb.swan.ac.uk/~aarts/'>Prof.Gert Aarts's Group</a> @Swansea University
+- <a href='https://nuclear.ucas.ac.cn/index.php/en/storeroom/kytd/labs-2/labs-8'> HENPG(Prof. Mei Huang)</a>@UCAS
+- <a href= 'https://faculty.pku.edu.cn/fengxu/en/index.htm'>ITP(Prof. Xu Feng)</a> @Peking University
+- Institute of Modern Physics</a> @Fudan University
+- <a href='https://atmsci.fudan.edu.cn/ca/26/c14809a248358/page.htm'>Atomspheric and Oceanic Sciences Group(Prof. Feng Zhang)</a> @Fudan University
 - You
 
 
