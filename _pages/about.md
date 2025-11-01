@@ -10,11 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Lingxiao Wang (王 凌霄), currently a <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist（研究員） at RIKEN iTHEMS</a> (理化学研究所 数理創造研究センター). Starting from November 2025, I will also serve as an Assistant Professor at  <a href='https://www.phys.s.u-tokyo.ac.jp/en/lp/ipi/'>the Institute for Physics of Intelligence (iPi), the University of Tokyo</a>.
+I'm Lingxiao Wang (王 凌霄), currently a <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist（研究員） at RIKEN iTHEMS</a> (理化学研究所 数理創造研究センター), and also an <a href='https://www.s.u-tokyo.ac.jp/en/people/wang_lingxiao/'> Assistant Professor </a> at <a href='https://www.phys.s.u-tokyo.ac.jp/en/lp/ipi/'>the Institute for Physics of Intelligence (iPi), the University of Tokyo</a>.
 
 My research interests span **Machine Learning in Physics**—particularly in **Quantum Chromodynamics (QCD)** (e.g., QCD matter, Lattice QCD, etc.)—as well as **Collective Behavior** and **Atmospheric Sciences**.  
 
-At RIKEN iTHEMS, I am the main facilitator of the <a href='https://ithems.riken.jp/en/about/working-groups/deep-in-wg'>"DEEP-IN" working group</a>, which focuses on developing deep learning models to tackle inverse problems in science. I have also organized numerous *Machine Learning in Physics* seminars for the community; past activities can be found on our <a href='https://sites.google.com/view/deep-in-wg/achieve'>MLP club page</a>.  
+At RIKEN-iTHEMS, I am the main facilitator of the <a href='https://ithems.riken.jp/en/about/working-groups/deep-in-wg'>"DEEP-IN" working group</a>, which focuses on developing deep learning models to tackle inverse problems in science. I have also organized numerous *Machine Learning in Physics* seminars for the community; past activities can be found on our <a href='https://sites.google.com/view/deep-in-wg/achieve'>MLP club page</a>.  
 
 If you are interested in academic collaboration, please feel free to contact me via **lingxiaowang[at]foxmail.com**.
 
@@ -29,6 +29,7 @@ If you are interested in academic collaboration, please feel free to contact me 
 
 # 🔥 News
 
+
 - *2025.09.24 -25*: &nbsp;🚆🚆 Attend the R7年度学術変革A「学習物理学」領域会議プログラム at the University of Tokyo.
 
 - *2025.08.25 - 09.05*: &nbsp;✈️✈️ I was invited to attend the <a href='https://www.munich-iapbp.de/activities/activities-2025/machine-learning'> "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics" Workshop</a> at Munich Institute for Astro-, Particle and BioPhysics(MIAPbP), Germany.
@@ -42,5 +43,3 @@ If you are interested in academic collaboration, please feel free to contact me 
 - *2025.03*: &nbsp;🎉🎉 I was awarded a new grant "QCD物理の逆問題を解くための物理駆動型深層学習" in <a href='https://mlphys.scphys.kyoto-u.ac.jp/organization/#sec_koubou'> 学術変革領域研究（Ａ）- 公募研究</a> from 文部科学省科学研究費補助金.
 
 - *2025.01*: &nbsp;🎉🎉 Our review paper "<a href='https://arxiv.org/abs/2501.05580'>Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics</a>" got publihsed on  "<a href='https://www.nature.com/articles/s42254-024-00798-x'> Nature Reviews Physics</a>". It provides a structured and concise overview of how incorporating prior knowledge such as symmetry, continuity and equations into deep learning designs can address diverse inverse problems across different physical sciences.
-
-- *2024.12*: &nbsp;🎉🎉 Our work "<a href='http://arxiv.org/abs/2410.21212'>Higher-order cumulants in diffusion models</a>" got the Best 'Physics for AI' Paper Award (Sponsored by Apple) in <a href='https://ml4physicalsciences.github.io/2024/'>"Machine Learning and the Physical Sciences" Workshop</a> at the 38th conference on Neural Information Processing Systems (NeurIPS), December 15, 2024.

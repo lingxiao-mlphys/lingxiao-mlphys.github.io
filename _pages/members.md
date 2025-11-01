@@ -7,7 +7,7 @@ author_profile: true
 
 # ⚛️ *PhyXAI* Members
 
-We are a group of researchers working on the intersection of physics and artificial intelligence, focusing on physically explainable AI (*PhyXAI*) and its applications in various scientific domains.
+We are a group of researchers working on the intersection of physics and artificial intelligence, focusing on physically explainable AI (*PhyXAI*) and its applications in various scientific domains. From 2026 April, we will be closedly interacting within the AI as Science team at RIKEN-iTHEMS.
 
 ## Researchers
 - <a href='https://axect.github.io/'> Tae-Geun Kim</a> (Fudan-RIKEN Joint Postdoctoral Fellow)

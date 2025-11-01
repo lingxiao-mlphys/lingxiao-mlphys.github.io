@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2024
+- *2024.12*: &nbsp;🎉🎉 Our work "<a href='http://arxiv.org/abs/2410.21212'>Higher-order cumulants in diffusion models</a>" got the Best 'Physics for AI' Paper Award (Sponsored by Apple) in <a href='https://ml4physicalsciences.github.io/2024/'>"Machine Learning and the Physical Sciences" Workshop</a> at the 38th conference on Neural Information Processing Systems (NeurIPS), December 15, 2024.
 - *2024.07*: &nbsp;🚆🚆 I was invited to attend the workshop of <a href='https://events.ift.uni.wroc.pl/event/75/'>"EMMI Workshop at the University of Wrocław - Aspects of Criticality II"</a> in Wrocław, Poland from 2nd to 4th July, and gave a plenary talk on <a href = 'https://events.ift.uni.wroc.pl/event/75/contributions/335/'>"Exploring properties of extreme matter with machine learning"</a>.
 - *2024.05*: &nbsp;🚆🚆 I attended the workshop of <a href='https://indico.ectstar.eu/event/206/'>"Machine Learning and the Renormalization Group"</a> in ECT*, Italy from 27th to 31th May, and gave a talk on <a href = 'https://indico.ectstar.eu/event/206/contributions/4782/'>"Action estimation with continuous-mixture autoregressive networks"</a>.
 - *2024.05*: 🎉🎉 Our new work of "Diffusion models as stochastic quantization in lattice field theory" has been published on  <a href='https://link.springer.com/article/10.1007/JHEP05(2024)060'>  Journal of High Energy Physics </a>.
