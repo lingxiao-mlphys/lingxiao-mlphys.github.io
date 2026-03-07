@@ -8,47 +8,51 @@ author_profile: true
 
 # 🔍 Researches
 
-## Review Papers
+My research is situated at the vibrant intersection of **Theoretical Physics** and **Artificial Intelligence**. I aim to establish a bidirectional synergy: developing AI to solve fundamental problems in quantum field theory, while using the principles of statistical mechanics and field theory to understand and refine machine learning algorithms.
 
-+ G. Aarts, K. Fukushima, T. Hatsuda, A. Ipp, S. Shi, **L. Wang<sup>*</sup>**, and K. Zhou, Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics, <a href='https://www.nature.com/articles/s42254-024-00798-x'>*Nat Rev Phys 7, 154–163 (2025)*</a>.
+---
 
-+ K. Zhou, **L. Wang<sup>*</sup>**, L.-G. Pang, and S. Shi, Exploring QCD matter in extreme conditions with Machine Learning, <a href='https://www.sciencedirect.com/science/article/pii/S0146641023000650'>*Prog. Part. Nucl. Phys. 135, 104084 (2023)*</a>.
+## ⚛️ AI for Theoretical Physics
+*Translating physical laws into neural architectures to explore the frontiers of Particle and Nuclear Physics.*
 
+### **Generative Models for Lattice Field Theories**
+We tackle the "critical slowing down" and topological freezing in Lattice Gauge Theory by designing physics-conditioned generative models.
+* **Diffusion Models and Stochastic Quantization:** Established a formal link between **Diffusion Models** and **Stochastic Quantization**, providing a field-theoretic foundation for generative sampling ($JHEP$ 2024, $JHEP$ 2026).
+* **Neural Path Integrals:** Developed **Fourier-flow models** and autoregressive networks to generate Feynman paths and study phase transitions like the Kosterlitz-Thouless transition ($PRD$ 2023, $CPL$ 2022).
 
-## Generative Models in Lattice Calculations
+### **Inverse Problems**
+We develop robust, physics-driven frameworks to extract physics quantiteis from limited experimental or lattice data.
+* **Automatic Differentiation (AD):** Pioneered the use of AD-based neural reconstruction for **Spectral Functions** and **Neutron Star Equation of State (EoS)**, significantly reducing the ill-posedness of these inverse problems ($PRD$ 2022, $PRD$ 2023, $PRD$ 2025).
+* **Hadron Physics:** Utilizing deep learning to explore hadron-hadron interactions and emitting sources from correlation functions ($JSPC$ 2025, $Communications Physics$ 2026).
 
-+ Q. Zhu, G. Aarts, W. Wang, K. Zhou, and **L. Wang<sup>*</sup>**, Physics-Conditioned Diffusion Models for Lattice Gauge Theory, <a href='https://arxiv.org/abs/2502.05504'>*arXiv:2502.05504 [hep-lat]*</a> (2025).
+---
 
-+ G. Aarts, D. E. Habibi, **L. Wang**, and K. Zhou, On learning higher-order cumulants in diffusion models, <a href='https://iopscience.iop.org/article/10.1088/2632-2153/ac7002'>*Mach. Learn. Sci. Tech. 6, 025004 (2025)*</a>.
+## 🌌 Theoretical Physics for AI
+*Applying the toolkit of theoretical physics to decode the "black box" of Deep Learning.*
 
-+ T. Xu, **L. Wang**, L. He, K. Zhou, and Y. Jiang, Building imaginary-time thermal filed theory with artificial neural networks, <a href='https://iopscience.iop.org/article/10.1088/1674-1137/ad5f80/meta'>*Chin. Phys. C 48, 103101 (2024)*</a>.
-+ **L. Wang**, G. Aarts, and K. Zhou, Diffusion models as stochastic quantization in lattice field theory, <a href='https://link.springer.com/article/10.1007/JHEP05(2024)060'>*JHEP 05, 060 (2024)*</a>.
-+ S. Chen, O. Savchuk, S. Zheng, B. Chen, H. Stoecker, **L. Wang<sup>*</sup>**, and K. Zhou, Fourier-flow model generating Feynman paths, <a href='https://doi.org/10.1103/PhysRevD.107.056001'>*Phys. Rev. D 107, 056001 (2023)*</a>.
-+ **L. Wang**, Y. Jiang, L. He, and K. Zhou, Continuous-mixture autoregressive networks learning the Kosterlitz-Thouless transition, <a href='https://iopscience.iop.org/article/10.1088/0256-307X/39/12/120502'>*Chin. Phys. Lett. 39, 120502 (2022)*</a>.
+* **Understanding Diffusion Models:** Investigating higher-order cumulants and the training evolution of diffusion models through the lens of thermal field theory and non-equilibrium statistical mechanics ($MLST$ 2025, Best Physics for AI Paper $NeurIPS$ ML4PS Workshop 2025).
+* **AI for Complex Systems:** Generalizing physics-driven AI to solve interdisciplinary challenges, such as spatio-temporal epidemiological modeling and all-weather atmospheric retrievals ($MLST$ 2021, $GRL$ 2025, $npj Climate and Atmospheric Science$ 2025).
+---
 
+## 📚 Selected Publications
+*(See full list on [Google Scholar](https://scholar.google.de/citations?user=ujb-RpkAAAAJ&hl=en))*
 
-## Inverse Problems
+### **Featured Reviews**
+* G. Aarts, ..., **L. Wang***, et al., "Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics," [**Nature Reviews Physics** 7, 154–163 (2025)](https://www.nature.com/articles/s42254-024-00798-x).
+* K. Zhou, **L. Wang***, et al., "Exploring QCD matter in extreme conditions with Machine Learning," [**Prog. Part. Nucl. Phys.** 135, 104084 (2023)](https://www.sciencedirect.com/science/article/pii/S0146641023000650).
 
-+ **L. Wang<sup>*</sup>**, Deep learning for exploring hadron–hadron interactions, <a href='https://www.sciencedirect.com/science/article/pii/S3050480525000044'>*J. Subatomic Part. Cosmol. 3, 100024 (2025)*</a>.
+### **Generative Diffusion Models and Field Theory**
+* Q. Zhu, ..., **L. Wang***, "Physics-Conditioned Diffusion Models for Lattice Gauge Theory," [**arXiv:2502.05504** (2025)](https://arxiv.org/abs/2502.05504).
+* **L. Wang**, G. Aarts, and K. Zhou, "Diffusion models as stochastic quantization in lattice field theory," [**JHEP** 05, 060 (2024)](https://link.springer.com/article/10.1007/JHEP05(2024)060).
+* S. Chen, ..., **L. Wang***, et al. "Fourier-flow model generating Feynman paths," [**Phys. Rev. D** 107, 056001 (2023)](https://doi.org/10.1103/PhysRevD.107.056001).
 
-+ **L. Wang** and J. Zhao, Learning Hadron Emitting Sources with Deep Neural Networks, <a href='https://arxiv.org/abs/2411.16343'>*arXiv:2411.16343 [nucl-th]*</a> (2024).
+### **Inverse Problems**
 
-+ S. Soma, **L. Wang**, S. Shi, H. Stöcker, and K. Zhou, Reconstructing the neutron star equation of state from observational data via automatic differentiation, <a href='https://doi.org/10.1103/PhysRevD.107.083028'>*Phys. Rev. D 107, 083028 (2023)*</a>.
+* **L. Wang** and J. Zhao, "Learning hadron emitting sources with deep neural networks," [**Commun Phys** (2026)](https://doi.org/10.1038/s42005-026-02530-w).
 
-+ S. Shi, **L. Wang**, and K. Zhou, Rethinking the ill-posedness of the spectral function reconstruction — Why is it fundamentally hard and how Artificial Neural Networks can help, <a href='https://www.sciencedirect.com/science/article/abs/pii/S0010465522002661'>*Comput. Phys. Commun. 282, 108547 (2023)*</a>.
+* **L. Wang**, S. Shi, and K. Zhou, "Reconstructing spectral functions via automatic differentiation," [**Phys. Rev. D** 106, L051502 (2022)](https://doi.org/10.1103/PhysRevD.106.L051502).
+* S. Soma, **L. Wang**, et al., "Reconstructing the neutron star equation of state from observational data via automatic differentiation," [**Phys. Rev. D** 107, 083028 (2023)](https://doi.org/10.1103/PhysRevD.107.083028).
 
-+ **L. Wang**, S. Shi, and K. Zhou, Reconstructing spectral functions via automatic differentiation, <a href='https://doi.org/10.1103/PhysRevD.106.L051502'>*Phys. Rev. D 106, L051502 (2022)*</a>.
+---
 
-## AI for Science
-
-+ H. Xiao, F. Zhang, R. Zhang, F. Lu, M. Cai, and **L. Wang**, Retrieval of Total Precipitable Water Under All-Weather Conditions From Himawari-8/AHI Observations Using the Generative Diffusion Model, <a href='https://onlinelibrary.wiley.com/doi/abs/10.1029/2025GL117075'>*Geophysical Research Letters 52, e2025GL117075 (2025)*</a>.
-
-+ S. Zhou, R. Shi, and **L. Wang<sup>*</sup>**, Extracting macroscopic quantities in crowd behaviour with deep learning, <a href='https://iopscience.iop.org/article/10.1088/1402-4896/ad423e'>*Phys. Scr. 99, 065213 (2024)*</a>.
-
-+ M. Xiang, H. Yuan, **L. Wang**, K. Zhou, and H. G. Roskos, Amplitude/Phase Retrieval for Terahertz Holography with Supervised and Unsupervised Physics-Informed Deep Learning, <a href='https://ieeexplore.ieee.org/document/10379686'>*IEEE Transactions on Terahertz Science and Technology 1 (2024)*</a>.
-
-+ **L. Wang**, B. M. Hare, K. Zhou, H. Stöcker, and O. Scholten, Identifying lightning structures via machine learning, <a href='https://www.sciencedirect.com/science/article/pii/S0960077923002473'>*Chaos Solitons and Fractals: The Interdisciplinary Journal of Nonlinear Science and Nonequilibrium and Complex Phenomena 170, 113346 (2023)*</a>.
-
-+ Y.-W. Zhong, Y. Jiang, S. Dong, W.-J. Wu, **L.-X. Wang**, J. Zhang, and M.-W. Huang, Tumor radiomics signature for artificial neural network-assisted detection of neck metastasis in patient with tongue cancer, <a href='https://doi.org/10.1016/j.neurad.2021.07.006'>*Journal of Neuroradiology 49, 213 (2022)*</a>.
-
-+ **L. Wang**, T. Xu, T. Stoecker, H. Stoecker, Y. Jiang, and K. Zhou, Machine learning spatio-temporal epidemiological model to evaluate Germany-county-level COVID-19 risk, <a href='https://doi.org/10.1088/2632-2153/ac0314'>*Mach. Learn.: Sci. Technol. 2, 035031 (2021)*</a>.
+*\* Corresponding author*
