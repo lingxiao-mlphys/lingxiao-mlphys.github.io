@@ -12,15 +12,18 @@ We are a group of researchers working on the intersection of physics and artific
 ## Researchers
 - <a href='https://axect.github.io/'> Tae-Geun Kim</a> (Fudan-RIKEN Joint Postdoctoral Fellow)
 - <a href='https://leefp29.github.io/'> Fu-Peng Li </a> (Fudan-RIKEN Joint Postdoctoral Fellow)
-- TBA (JST-BOOST Special Appointed Researcher)
+- Yang-yang Tan (Postdoctoral Researcher, UTokyo)
 
-## Junior Researchers
+## Students
 
 - Qianteng Zhu (D2, IPA student, Shanghai Jiao Tong University)
 - Jinyang Li (D2, co-advising, JRA student, KEK)
 - Shuai Yang (D1, co-advising, Xian Jiaotong University)
 - Jiaqing Chen (M3, co-advising, Xian Jiaotong University)
 - Jing-Zong Zhang (D1, co-advising, Fudan University)
+
+## Previous Members
+
 
 ## Collaborators
 

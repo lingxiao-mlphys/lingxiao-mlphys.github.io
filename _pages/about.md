@@ -28,18 +28,10 @@ If you are interested in academic collaboration, please feel free to contact me 
 
 
 # 🔥 News
+- *2026.02.10 - 02.12*: &nbsp;🚆🚆 Invited to give a talk "Detecting Phase Transitions by Intrinsic Dimensions", in <a href='https://sites.google.com/view/mlphyb03/events/topology-and-lattice-2026?authuser=0'> Topology in Lattice Systems 2026 </a> at the University of Tokyo, Japan.
 
+- *2026.02.07 - 02.09*: &nbsp;🎉🎉 Organized <a href='https://www.data-assimilation.riken.jp/en/events/jst_sakura_ws_202601/index.html'> the JST-Sakura Science Exchange Program: RIKEN-Fudan University joint workshop on atmospheric science, DA and ML</a> at RIKEN-R-CCS, Kobe, Japan.
 
-- *2025.09.24 -25*: &nbsp;🚆🚆 Attend the R7年度学術変革A「学習物理学」領域会議プログラム at the University of Tokyo.
+- *2026.01.19 - 01.23*: &nbsp;🎉🎉 Organized the <a href='https://conference-indico.kek.jp/event/355/overview'> 2nd "AI+HEP in East Asia" workshop</a> at KEK, Tsukuba, Japan.
 
-- *2025.08.25 - 09.05*: &nbsp;✈️✈️ I was invited to attend the <a href='https://www.munich-iapbp.de/activities/activities-2025/machine-learning'> "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics" Workshop</a> at Munich Institute for Astro-, Particle and BioPhysics(MIAPbP), Germany.
-
-- *2025.08.17 - 08.20*: &nbsp;🚆🚆 I was invited to give a lecture in <a href='https://indico.ihep.ac.cn/event/26610/'> 第三届量子场论前沿研讨会(the 3rd Workshop on Frontiers of Quantum Field Theory)</a> at Guiyang, China.
-
-- *2025.07*: &nbsp;🎉🎉 I was approved to start a new position as Assistant Professor in the Instite of Physics Intelligence(iPI) at the UTokyo from November 2025 under the support of <a href='https://www.jst.go.jp/program/boost/yr/research/index.html'>"JST-BOOST Program 次世代AI人材育成プログラム（若手研究者支援））"</a>.
-
-- *2025.02 - 2025.05*: &nbsp;👶 I was in Parental Leave for my child.
-
-- *2025.03*: &nbsp;🎉🎉 I was awarded a new grant "QCD物理の逆問題を解くための物理駆動型深層学習" in <a href='https://mlphys.scphys.kyoto-u.ac.jp/organization/#sec_koubou'> 学術変革領域研究（Ａ）- 公募研究</a> from 文部科学省科学研究費補助金.
-
-- *2025.01*: &nbsp;🎉🎉 Our review paper "<a href='https://arxiv.org/abs/2501.05580'>Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics</a>" got publihsed on  "<a href='https://www.nature.com/articles/s42254-024-00798-x'> Nature Reviews Physics</a>". It provides a structured and concise overview of how incorporating prior knowledge such as symmetry, continuity and equations into deep learning designs can address diverse inverse problems across different physical sciences.
+- *2026.01.13 - 01.15*: &nbsp;🚆🚆 Attend the 「富岳成果創出加速プログラム」基礎科学合同シンポジウム 2025, and presented a talk on <a href='https://kds.kek.jp/event/57304/contributions/305971/'> "Physics-Driven Generative Models : From Lattice Fields to Atmospheric Simulations" </a>.
