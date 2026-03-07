@@ -31,7 +31,9 @@ We develop robust, physics-driven frameworks to extract physics quantiteis from 
 *Applying the toolkit of theoretical physics to decode the "black box" of Deep Learning.*
 
 * **Understanding Diffusion Models:** Investigating higher-order cumulants and the training evolution of diffusion models through the lens of thermal field theory and non-equilibrium statistical mechanics (*MLST* 2025, Best Physics for AI Paper *NeurIPS* ML4PS Workshop 2025).
+
 * **AI for Complex Systems:** Generalizing physics-driven AI to solve interdisciplinary challenges, such as spatio-temporal epidemiological modeling and all-weather atmospheric retrievals (*MLST* 2021, *GRL* 2025, *npj Climate and Atmospheric Science* 2025).
+
 ---
 
 ## 📚 Selected Publications
