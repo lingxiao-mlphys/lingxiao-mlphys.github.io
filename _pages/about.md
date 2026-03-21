@@ -12,7 +12,7 @@ redirect_from:
 
 I'm Lingxiao Wang (王 凌霄), currently a <a href='https://ithems.riken.jp/en/members/lingxiao-wang'>Research Scientist（研究員） at RIKEN iTHEMS</a> (理化学研究所 数理創造研究センター), and also an <a href='https://www.s.u-tokyo.ac.jp/en/people/wang_lingxiao/'> Assistant Professor </a> at <a href='https://www.phys.s.u-tokyo.ac.jp/en/lp/ipi/'>the Institute for Physics of Intelligence (iPi), the University of Tokyo</a>.
 
-My research interests span **Machine Learning in Physics**—particularly in **Quantum Chromodynamics (QCD)** (e.g., QCD matter, Lattice QCD, etc.)—as well as **Collective Behavior** and **Atmospheric Sciences**.  
+My research focuses on physics-driven generative modeling for lattice field theory and QCD physics. In particular, I develop diffusion-based models for field simulations, study inverse problems in strongly interacting systems, and explore how concepts from statistical physics and field theory can inform the foundations of AI.
 
 At RIKEN-iTHEMS, I am the main facilitator of the <a href='https://ithems.riken.jp/en/about/working-groups/deep-in-wg'>"DEEP-IN" working group</a>, which focuses on developing deep learning models to tackle inverse problems in science. I have also organized numerous *Machine Learning in Physics* seminars for the community; past activities can be found on our <a href='https://sites.google.com/view/deep-in-wg/achieve'>MLP club page</a>.  
 
