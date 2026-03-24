@@ -1,3 +1,4 @@
+ignoreLogs = ["warning-goldmark-raw-html"]
 baseURL = "/"
 languageCode = "en-us"
 title = "Lingxiao Wang"
