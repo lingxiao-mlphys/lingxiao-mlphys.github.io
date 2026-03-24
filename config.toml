@@ -1,5 +1,5 @@
 ignoreLogs = ["warning-goldmark-raw-html"]
-baseURL = "/"
+baseURL = "https://lingxiao-mlphys.github.io/"
 languageCode = "en-us"
 title = "Lingxiao Wang"
 theme = "barks"
