@@ -1,0 +1,79 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Lingxiao Wang"
+theme = "barks"
+
+## Ensure that Hugo uses the extended version (required for SCSS in barks)
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.128.0"
+
+## Metadata for the head of the site (used for meta tags)
+[params.head]
+  author = "Lingxiao Wang"
+  description = "Multi‑Scale Physically Explainable AI for Scientific Discovery."
+  keywords = ["physics", "AI", "generative models", "research", "lattice field theory"]
+
+## Show navigation and footer by default
+[params.navigation]
+  show_navigation = true
+
+[params.footer]
+  show_footer = true
+
+## Define social links shown in the footer
+[params.social.email]
+  name = "E‑Mail"
+  class = "fas fa-envelope"
+  url = "mailto:lingxiaowang@foxmail.com"
+  weight = 1
+
+[params.social.github]
+  name = "GitHub"
+  class = "fab fa-github"
+  url = "https://github.com/lingxiao"
+  weight = 2
+
+[params.social.google_scholar]
+  name = "Google Scholar"
+  class = "ai ai-google-scholar-square"
+  url = "https://scholar.google.de/citations?user=ujb-RpkAAAAJ&hl=en"
+  weight = 3
+
+[params.social.twitter]
+  name = "Twitter"
+  class = "fab fa-twitter"
+  url = "https://x.com/lingxiao225"
+  weight = 4
+
+[params.social.inspire]
+  name = "INSPIRE"
+  class = "ai ai-inspire"
+  url = "https://inspirehep.net/authors/1645466"
+  weight = 5
+
+## Configure the main navigation menu.  The weight defines the order.
+[[menu.main]]
+  identifier = "activities"
+  name = "Activities"
+  url = "/activities/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "researches"
+  name = "Researches"
+  url = "/researches/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "members"
+  name = "Members"
+  url = "/members/"
+  weight = 4
