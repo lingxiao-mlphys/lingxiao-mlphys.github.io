@@ -1,4 +1,4 @@
-## 2026
+
 
 - *2026.02.10 – 02.12*:  🚆🚆 Invited to give a talk "Detecting Phase Transitions by Intrinsic Dimensions" in [Topology in Lattice Systems 2026](https://sites.google.com/view/mlphyb03/events/topology-and-lattice-2026?authuser=0) at the University of Tokyo, Japan.
 

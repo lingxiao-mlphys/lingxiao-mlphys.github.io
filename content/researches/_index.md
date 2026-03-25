@@ -7,9 +7,10 @@ We design physics-conditioned generative models that respect the symmetries of q
 * **Diffusion as Stochastic Quantization:** We proved that **Diffusion Models** are mathematically equivalent to **Stochastic Quantization** in field theory, providing a rigorous foundation for AI-based sampling.
 * **Neural Path Integrals:** Developed **Fourier-flow models** and autoregressive networks to generate Feynman paths, capturing complex phase transitions (e.g., Kosterlitz–Thouless).
 
-> * Q. Zhu et al., Physics-Conditioned Diffusion Models for Lattice Gauge Theory, [J. High Energ. Phys. **2026**, 060 (2026)](https://doi.org/10.1007/JHEP05(2026)060).
+> * Q Zhu, G Aarts, W Wang, K Zhou, **L Wang***, Physics-Conditioned Diffusion Models for Lattice Gauge Theory, [J. High Energ. Phys. **2026**, 060 (2026)](https://doi.org/10.1007/JHEP05(2026)060).
 > * **L. Wang**, G. Aarts, and K. Zhou, Diffusion models as stochastic quantization in lattice field theory, [J. High Energ. Phys. **2024**, 060 (2024)](https://link.springer.com/article/10.1007/JHEP05(2024)060).
-> * S. Chen et al., Fourier-flow model generating Feynman paths, [Phys. Rev. D **107**, 056001 (2023)](https://doi.org/10.1103/PhysRevD.107.056001).
+> * S Chen, O Savchuk, S Zheng, B Chen, H Stoecker, **L Wang***, K Zhou, Fourier-flow model generating Feynman paths, [Phys. Rev. D **107**, 056001 (2023)](https://doi.org/10.1103/PhysRevD.107.056001).
+> * **L Wang**, Y Jiang, L He, K Zhou, Continuous-mixture autoregressive networks learning the kosterlitz-thouless transition, [Chinese Physics Letters 39 (12), 120502 (2022)](https://iopscience.iop.org/article/10.1088/0256-307X/39/12/120502/meta).
 
 ---
 
@@ -33,7 +34,11 @@ We generalize the methodologies developed in theoretical physics to tackle broad
 * **Atmospheric Science:** Developed all-weather atmospheric retrieval models and remote sensing frameworks that outperform traditional statistical methods.
 * **Epidemiology & Spatiotemporal Modeling:** Applying Physics-Informed Neural Networks (PINNs) to model the spreading of diseases with spatial constraints.
 
-> * **L. Wang** et al., All-weather atmospheric retrievals via deep learning, [Geophys. Res. Lett. **52**, e2024GL11xxxx (2025)](https://doi.org/10.1029/2024GL11xxxx).
-> * **L. Wang** et al., Spatio-temporal epidemiological modelling, [Mach. Learn.: Sci. Technol. **2**, 045021 (2021)](https://iopscience.iop.org/article/10.1088/2632-2153/ac1b05).
+> * H Xiao, F Zhang, **L Wang**, B Pan, Y Zhu, M Wang, W Li, B Guo, J Li, High-resolution ensemble retrieval of cloud properties for all-day based on geostationary satellite, [npj Climate and Atmospheric Science 8, no. 1 (2025): 386](https://www.nature.com/articles/s41612-025-01263-x).
+> * **L Wang**, T Xu, H Stoecker, H Stoecker, Y Jiang, K Zhou, Machine learning spatio-temporal epidemiological model to evaluate Germany-county-level COVID-19 risk, [Machine Learning: Science and Technology 2, no. 3 (2021): 035031](https://iopscience.iop.org/article/10.1088/2632-2153/ac0314/meta).
+
+---
+## Others
+
 
 *\*Corresponding author*
