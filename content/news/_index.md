@@ -1,12 +1,15 @@
+New Papers can be found in the [iNSPIRE](https://inspirehep.net/authors/1645466) page, and the latest news and events are listed below.
 
 
-- *2026.02.10 – 02.12*:  🚆🚆 Invited to give a talk "Detecting Phase Transitions by Intrinsic Dimensions" in [Topology in Lattice Systems 2026](https://sites.google.com/view/mlphyb03/events/topology-and-lattice-2026?authuser=0) at the University of Tokyo, Japan.
+- *2026.03.13*: 🚆🚆 Present at the BOOST Young Researchers Conference(BOOST若手研究会議) at 日本科学未来館.
 
-- *2026.02.07 – 02.09*:  🎉🎉 Organised [the JST‑Sakura Science Exchange Program: RIKEN–Fudan University joint workshop on atmospheric science, DA and ML](https://www.data-assimilation.riken.jp/en/events/jst_sakura_ws_202601/index.html) at RIKEN‑R‑CCS, Kobe, Japan.
+- *2026.02.10 – 02.12*: 🚆🚆 Invited to give a talk "Detecting Phase Transitions by Intrinsic Dimensions" in [Topology in Lattice Systems 2026](https://sites.google.com/view/mlphyb03/events/topology-and-lattice-2026?authuser=0) at the University of Tokyo, Japan.
 
-- *2026.01.19 – 01.23*:  🎉🎉 Organised the [2nd "AI+HEP in East Asia" workshop](https://conference-indico.kek.jp/event/355/overview) at KEK, Tsukuba, Japan.
+- *2026.02.07 – 02.09*: 🎉🎉 Organised [the JST‑Sakura Science Exchange Program: RIKEN–Fudan University joint workshop on atmospheric science, DA and ML](https://www.data-assimilation.riken.jp/en/events/jst_sakura_ws_202601/index.html) at RIKEN‑R‑CCS, Kobe, Japan.
 
-- *2026.01.13 – 01.15*:  🚆🚆 Attended the 「富岳成果創出加速プログラム」基礎科学合同シンポジウム 2025 and presented a talk on ["Physics‑Driven Generative Models : From Lattice Fields to Atmospheric Simulations"](https://kds.kek.jp/event/57304/contributions/305971/).
+- *2026.01.19 – 01.23*: 🎉🎉 Organised the [2nd "AI+HEP in East Asia" workshop](https://conference-indico.kek.jp/event/355/overview) at KEK, Tsukuba, Japan.
+
+- *2026.01.13 – 01.15*: 🚆🚆 Attended the 「富岳成果創出加速プログラム」基礎科学合同シンポジウム 2025 and presented a talk on ["Physics‑Driven Generative Models : From Lattice Fields to Atmospheric Simulations"](https://kds.kek.jp/event/57304/contributions/305971/).
 
 ## 2025
 
