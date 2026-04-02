@@ -1,4 +1,4 @@
-From April 2026, I will become the deputy director of the [**AI as Science**](https://ithems.riken.jp/en/organization/ai-as-science-team) team at **RIKEN‑iTHEMS**.
+From April 2026, I am the deputy director of the [**AI as Science**](https://ithems.riken.jp/en/organization/ai-as-science-team) team at **RIKEN‑iTHEMS**.
 
 To advance the diffusion-based generative models for lattice field theory, I'm leading the DM-LFT collaboration, which includes many researchers from EU/UK/China/Japan.
 
