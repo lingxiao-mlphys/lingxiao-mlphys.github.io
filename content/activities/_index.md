@@ -1,7 +1,7 @@
 From April 2026, I am the deputy director of the [**AI as Science**](https://ithems.riken.jp/en/organization/ai-as-science-team) team at **RIKEN‑iTHEMS**.
 I'm also organizing the [iPI seminar series](https://www.ipi.s.u-tokyo.ac.jp/news/seminar/) at the [Institute for Physics of Intelligence (iπ), the University of Tokyo](https://www.ipi.s.u-tokyo.ac.jp/en/en-home/).
 
-To advance the diffusion-based generative models for lattice field theory, I'm leading the DM-LFT collaboration, which includes many researchers from EU/UK/China/Japan.
+To advance the diffusion-based generative models for lattice field theory, I'm leading the [DM-QFT](https://dm-qft.github.io/homepage/) collaboration, which includes many researchers from EU/UK/China/Japan.
 
 Besides, I am the main facilitator of the ["DEEP‑IN" working group](https://ithems.riken.jp/en/about/working-groups/deep-in-wg), which focuses on developing deep learning models to tackle inverse problems in science.
 
