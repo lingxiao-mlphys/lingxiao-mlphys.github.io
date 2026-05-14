@@ -1,5 +1,6 @@
 New Papers can be found in the [iNSPIRE](https://inspirehep.net/authors/1645466) page, and the latest news and events are listed below.
 
+- *2026.05.06 - 05.08*: 🚆🚆 Invited to give a [talk on behalf of the DM-QFT collaboration](https://indico.cern.ch/event/1596853/contributions/7069513/) in [Data Analysis and Machine Learning for Physics Workshop](https://www.lecospa.ntu.edu.tw/events/machine-learning-for-physics) at National Taiwan University, Taiwan.
 
 - *2026.03.13*: 🚆🚆 Present at the BOOST Young Researchers Conference(BOOST若手研究会議) at 日本科学未来館.
 
