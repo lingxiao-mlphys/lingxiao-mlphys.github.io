@@ -9,10 +9,11 @@ We are a group of researchers working on the intersection of physics and artific
 - [Yang‑yang Tan](https://www.phys.s.u-tokyo.ac.jp/en/lp/ipi/) (Postdoctoral Researcher, UTokyo)
 
 ## Students
-- Hong-An Zeng (D4, co‑advising, Jilin University)
-- Jinyang Li (D2, co‑advising, JRA student, KEK)
-- Jing‑Zong Zhang (D1, co‑advising, Fudan University)
-- Huajian Ruan (M2, co‑advising, South China Normal University)
+- Hong-An Zeng (D4, co‑advising with Prof. Mei Huang, Jilin University)
+- Jinyang Li (D3, co‑advising with Prof. Satoshi Iso, JRA student, KEK)
+- Luyao Li (D2, co‑advising with Prof. Lianyi He, Tsinghua University)
+- Jing‑Zong Zhang (D1, co‑advising with Prof. Guo-Liang Ma, Fudan University)
+- Huajian Ruan (M2, co‑advising with Dr. Xingyu Guo, South China Normal University)
 
 ## Opportunities
 RIKEN can not offer PhD course. However, there are programs for graduate students to conduct research at RIKEN: [International Program Associate (IPA)](https://www.riken.jp/en/careers/programs/ipa/index.html) for international students and [Junior Research Associate (JRA)](https://www.riken.jp/en/careers/programs/jra/index.html) for students enrolled in Japanese universities.
@@ -20,11 +21,9 @@ RIKEN can not offer PhD course. However, there are programs for graduate student
 For postdoc opportunities, see the RIKEN [Special Postdoctoral Researcher (SPDR) program](https://www.riken.jp/en/careers/programs/spdr/index.html). Applications for SPDR starting in year X are typically due in early spring of year X−1. If you are interested, please contact me by February of X−1 or earlier. There are also JSPS Fellowships for postdocs or short-term visitors, see the [JSPS Fellowship program](https://www.jsps.go.jp/english/e-inv_researchers/index.html).
 
 ## Previous Members
-
-- Qianteng Zhu (D2, IPA student, Shanghai Jiao Tong University)
-- Shuang Guo (D2, co‑advising, Fudan University)
-- Shuai Yang (D1, co‑advising, Xi’an Jiaotong University)
-- Jiaqing Chen (M3, co‑advising, Xi’an Jiaotong University)
+- Victor Kawasaki-Borruat (2026.8-9, Visiting Student, EPFL)
+- Qianteng Zhu (2024.12-2025.09, IPA student, Shanghai Jiao Tong University)
+- Jiaqing Chen (co‑advising, Xi’an Jiaotong University)
 <!-- There are no previous members listed yet. -->
 
 ## Collaborators
