@@ -4,6 +4,11 @@ languageCode = "en-us"
 title = "Lingxiao Wang"
 theme = "barks"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 ## Ensure that Hugo uses the extended version (required for SCSS in barks)
 [module]
   [module.hugoVersion]

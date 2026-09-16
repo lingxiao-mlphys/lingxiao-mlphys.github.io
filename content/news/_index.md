@@ -1,5 +1,11 @@
 New Papers can be found in the [iNSPIRE](https://inspirehep.net/authors/1645466) page, and the latest news and events are listed below.
 
+- *2026.09.07 – 09.11*: 🎉🎉 Organised the [ECT* workshop "Bridging Machine Learning and Statistical Field Theory through Generative and Diffusion Processes"](https://indico.ectstar.eu/event/269/) at ECT*, Trento, Italy.
+
+- *2026.09.01 – 09.05*: ✈️✈️ Invited to give a plenary talk on ["Diffusion Models as Stochastic Quantisation"](https://indico.global/event/16125/contributions/164376/) in the [13th International Conference on the Exact Renormalization Group 2026 (ERG2026)](https://indico.global/event/16125/) at the University of Sussex, UK.
+
+- *2026.08.25 – 08.27*: 🎉🎉 Organised the [AI for Science Summer School](https://sites.google.com/view/deep-in-wg/events/2026-ai4science-summer-school) at RIKEN, Wako, Japan, and gave a lecture on generative models.
+
 - *2026.05.06 - 05.08*: 🚆🚆 Invited to give a [talk on behalf of the DM-QFT collaboration](https://indico.cern.ch/event/1596853/contributions/7069513/) in [Data Analysis and Machine Learning for Physics Workshop](https://www.lecospa.ntu.edu.tw/events/machine-learning-for-physics) at National Taiwan University, Taiwan.
 
 - *2026.03.13*: 🚆🚆 Present at the BOOST Young Researchers Conference(BOOST若手研究会議) at 日本科学未来館.
