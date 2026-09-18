@@ -1,7 +1,7 @@
 My research operates at the bidirectional frontier of **Theoretical Physics** and **Artificial Intelligence**. I develop AI architectures rooted in physical laws to solve fundamental problems in quantum field theory, while simultaneously using statistical mechanics to decode the "black box" of deep learning.
 
 <figure style="text-align: center;">
-  <img src="/images/PhyXAI.png" alt="Multi‑Scale Physically Explainable AI" style="max-width: 65%; height: auto;">
+  <img src="/images/PhyXAI.png" alt="Multi‑Scale Physically Explainable AI" style="max-width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 10px;">
     <strong>Multi‑Scale Physically Explainable AI for Scientific Discovery.</strong><br>
   </figcaption>

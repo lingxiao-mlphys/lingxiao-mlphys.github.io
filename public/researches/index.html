@@ -109,50 +109,44 @@
 <h1></h1>
 
 <p>My research operates at the bidirectional frontier of <strong>Theoretical Physics</strong> and <strong>Artificial Intelligence</strong>. I develop AI architectures rooted in physical laws to solve fundamental problems in quantum field theory, while simultaneously using statistical mechanics to decode the &ldquo;black box&rdquo; of deep learning.</p>
-<h2 id="generative-models-for-lattice-field-theories">Generative Models for Lattice Field Theories</h2>
-<p>We design physics-conditioned generative models that respect the symmetries of quantum field theory. By establishing a formal bridge between AI and physics, we enable high-precision sampling that was previously computationally prohibitive.</p>
-<ul>
-<li><strong>Diffusion as Stochastic Quantization:</strong> We proved that <strong>Diffusion Models</strong> are mathematically equivalent to <strong>Stochastic Quantization</strong> in field theory, providing a rigorous foundation for AI-based sampling.</li>
-<li><strong>Neural Path Integrals:</strong> Developed <strong>Fourier-flow models</strong> and autoregressive networks to generate Feynman paths, capturing complex phase transitions (e.g., Kosterlitz–Thouless).</li>
-</ul>
-<blockquote>
-<ul>
-<li>Q Zhu, G Aarts, W Wang, K Zhou, <strong>L Wang</strong>*, Physics-Conditioned Diffusion Models for Lattice Gauge Theory, <a href="https://doi.org/10.1007/JHEP05(2026)060">J. High Energ. Phys. <strong>2026</strong>, 060 (2026)</a>.</li>
-<li><strong>L. Wang</strong>, G. Aarts, and K. Zhou, Diffusion models as stochastic quantization in lattice field theory, <a href="https://link.springer.com/article/10.1007/JHEP05(2024)060">J. High Energ. Phys. <strong>2024</strong>, 060 (2024)</a>.</li>
-<li>S Chen, O Savchuk, S Zheng, B Chen, H Stoecker, <strong>L Wang</strong>*, K Zhou, Fourier-flow model generating Feynman paths, <a href="https://doi.org/10.1103/PhysRevD.107.056001">Phys. Rev. D <strong>107</strong>, 056001 (2023)</a>.</li>
-<li><strong>L Wang</strong>, Y Jiang, L He, K Zhou, Continuous-mixture autoregressive networks learning the kosterlitz-thouless transition, <a href="https://iopscience.iop.org/article/10.1088/0256-307X/39/12/120502/meta">Chinese Physics Letters 39 (12), 120502 (2022)</a>.</li>
-</ul>
-</blockquote>
+<figure style="text-align: center;">
+  <img src="/images/PhyXAI.png" alt="Multi‑Scale Physically Explainable AI" style="max-width: 65%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 10px;">
+    <strong>Multi‑Scale Physically Explainable AI for Scientific Discovery.</strong><br>
+  </figcaption>
+</figure>
 <hr>
-<h2 id="inverse-problems-in-physics">Inverse Problems in Physics</h2>
-<p>Inverse problems in physics (like spectral reconstruction) are notoriously ill-posed. We utilize <strong>Automatic Differentiation (AD)</strong> and physics-driven neural networks to regularize these problems and extract precise physical information.</p>
+<h2 id="a-generative-models-for-lattice-field-theories">A. Generative Models for Lattice Field Theories</h2>
+<p>We design physics-conditioned generative models that respect the symmetries of quantum field theory, enabling high-precision sampling that was previously computationally prohibitive.</p>
 <ul>
-<li><strong>AD-based Reconstruction:</strong> Pioneered the use of AD to reconstruct <strong>spectral functions</strong> and <strong>Neutron Star Equations of State (EoS)</strong> from lattice/observational data.</li>
-<li><strong>Hadron Physics:</strong> Leveraging deep learning to decode hadron-hadron interactions and emitting sources, bridging the gap between theory and experiment.</li>
+<li><strong>Diffusion as Stochastic Quantization:</strong> We showed that <strong>diffusion models</strong> are equivalent to <strong>stochastic quantization</strong> (<a href="https://doi.org/10.1007/JHEP05(2024)060">JHEP 2024</a>), and developed physics-conditioned, gauge-equivariant samplers for U(1) and non-Abelian gauge fields (<a href="https://doi.org/10.1007/JHEP03(2026)111">JHEP 2026</a>; <a href="https://arxiv.org/abs/2601.19552">arXiv:2601.19552</a>). The same approach extends to sampling near criticality in two- and three-dimensional scalar theories (<a href="https://arxiv.org/abs/2607.08505">arXiv:2607.08505</a>).</li>
+<li><strong>Neural Path Integrals:</strong> We introduced <strong>Fourier-flow models</strong> for Feynman paths (<a href="https://doi.org/10.1103/PhysRevD.107.056001">PRD 2023</a>) and continuous-mixture autoregressive networks for the Kosterlitz–Thouless transition (<a href="https://iopscience.iop.org/article/10.1088/0256-307X/39/12/120502/meta">CPL 2022</a>).</li>
 </ul>
-<blockquote>
-<ul>
-<li>G. Aarts et al., Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics, <a href="https://www.nature.com/articles/s42254-024-00798-x">Nat. Rev. Phys. <strong>7</strong>, 154 (2025)</a>.</li>
-<li><strong>L. Wang</strong>, S. Shi, and K. Zhou, Reconstructing spectral functions via automatic differentiation, <a href="https://doi.org/10.1103/PhysRevD.106.L051502">Phys. Rev. D <strong>106</strong>, L051502 (2022)</a>.</li>
-<li><strong>L. Wang</strong> and J. Zhao, Learning hadron emitting sources with deep neural networks, <a href="https://doi.org/10.1038/s42005-026-02530-w">Commun. Phys. <strong>9</strong>, 253 (2026)</a>.</li>
-</ul>
-</blockquote>
 <hr>
-<h2 id="ai-for-complex-systems">AI for Complex Systems</h2>
-<p>We generalize the methodologies developed in theoretical physics to tackle broader scientific challenges, from climate patterns to epidemiological dynamics.</p>
+<h2 id="b-inverse-problems-in-physics">B. Inverse Problems in Physics</h2>
+<p>Inverse problems such as spectral reconstruction are notoriously ill-posed. We use <strong>automatic differentiation</strong> and physics-driven neural networks to regularize them (<a href="https://www.nature.com/articles/s42254-024-00798-x">Nat. Rev. Phys. 2025</a>).</p>
 <ul>
-<li><strong>Atmospheric Science:</strong> Developed all-weather atmospheric retrieval models and remote sensing frameworks that outperform traditional statistical methods.</li>
-<li><strong>Epidemiology &amp; Spatiotemporal Modeling:</strong> Applying Physics-Informed Neural Networks (PINNs) to model the spreading of diseases with spatial constraints.</li>
+<li><strong>AD-based Reconstruction:</strong> We reconstruct <strong>spectral functions</strong> from lattice data (<a href="https://doi.org/10.1103/PhysRevD.106.L051502">PRD 2022</a>) and rapidly rotating <strong>neutron-star observables</strong> from the equation of state (<a href="https://arxiv.org/abs/2604.05428">arXiv:2604.05428</a>).</li>
+<li><strong>Hadron Physics:</strong> We decode hadron–hadron interactions and emitting sources with deep networks (<a href="https://doi.org/10.1038/s42005-026-02530-w">Commun. Phys. 2026</a>).</li>
+<li><strong>Neural RG:</strong> We solve functional renormalization group flows and Wilson–Fisher fixed-point equations with physics-informed neural networks (<a href="https://doi.org/10.1103/6d43-d6x8">PRD 2026</a>).</li>
 </ul>
-<blockquote>
-<ul>
-<li>H Xiao, F Zhang, <strong>L Wang</strong>, B Pan, Y Zhu, M Wang, W Li, B Guo, J Li, High-resolution ensemble retrieval of cloud properties for all-day based on geostationary satellite, <a href="https://www.nature.com/articles/s41612-025-01263-x">npj Climate and Atmospheric Science 8, no. 1 (2025): 386</a>.</li>
-<li><strong>L Wang</strong>, T Xu, H Stoecker, H Stoecker, Y Jiang, K Zhou, Machine learning spatio-temporal epidemiological model to evaluate Germany-county-level COVID-19 risk, <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac0314/meta">Machine Learning: Science and Technology 2, no. 3 (2021): 035031</a>.</li>
-</ul>
-</blockquote>
 <hr>
-<h2 id="others">Others</h2>
-<p><em>*Corresponding author</em></p>
+<h2 id="c-ai-for-complex-systems">C. AI for Complex Systems</h2>
+<p>We generalize these methods to broader scientific challenges, from climate patterns to epidemiological dynamics.</p>
+<ul>
+<li><strong>Atmospheric Science:</strong> We developed all-weather retrieval models for cloud properties from geostationary satellites (<a href="https://www.nature.com/articles/s41612-025-01263-x">npj CAS 2025</a>).</li>
+<li><strong>Epidemiology:</strong> We applied physics-informed neural networks to county-level COVID-19 risk in Germany (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac0314/meta">MLST 2021</a>).</li>
+</ul>
+<hr>
+<h2 id="awards-and-honors">Awards and Honors</h2>
+<ul>
+<li><em>Sep. 2026</em>: <strong>Google TPU Builders Research Award</strong>, Google.</li>
+<li><em>Dec. 2024</em>: <a href="https://ml4physicalsciences.github.io/2024/#awards"><strong>Best &ldquo;Physics for AI&rdquo; Paper Award</strong></a>, Machine Learning and the Physical Sciences workshop, NeurIPS 2024 &amp; Apple Inc. <em>Higher-order cumulants in diffusion models.</em></li>
+<li><em>Jun. 2020</em>: <strong>Yu-Hsun Woo Nominee Prize</strong>, Dept. of Physics, Tsinghua University &amp; Hung Yin Hua Guan Foundation.</li>
+<li><em>Nov. 2018</em>: <strong>National Scholarship for Graduate Students</strong>, Ministry of Education of China.</li>
+<li><em>Mar. 2015</em>: <strong>Distinguished Graduate, Bachelor</strong>, Educational Department of Liaoning Province.</li>
+<li><em>Nov. 2014</em>: <strong>National Scholarship for Undergraduate Students</strong>, Ministry of Education of China.</li>
+</ul>
 
 
 

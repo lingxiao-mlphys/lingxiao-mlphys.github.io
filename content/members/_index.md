@@ -23,7 +23,7 @@ For postdoc opportunities, see the RIKEN [Special Postdoctoral Researcher (SPDR)
 ## Previous Members
 - Victor Kawasaki-Borruat (2026.8-9, Visiting Student, EPFL)
 - Qianteng Zhu (2024.12-2025.09, IPA student, Shanghai Jiao Tong University)
-- Jiaqing Chen (co‑advising, Xi’an Jiaotong University)
+- Jiaqing Chen (co‑advising with Prof. Shijun Mao, Xi’an Jiaotong University)
 <!-- There are no previous members listed yet. -->
 
 ## Collaborators
