@@ -1,6 +1,6 @@
 
-From April 2026, I am the deputy director of the [**AI as Science**](https://ithems.riken.jp/en/organization/ai-as-science-team) team at **RIKEN‑iTHEMS**.
-I'm also organizing the [iPI seminar series](https://www.ipi.s.u-tokyo.ac.jp/news/seminar/) at the [Institute for Physics of Intelligence (iπ), the University of Tokyo](https://www.ipi.s.u-tokyo.ac.jp/en/en-home/).
+From April 2026, I am the Deputy Director of the [**AI as Science**](https://ithems.riken.jp/en/organization/ai-as-science-team) team at **RIKEN‑iTHEMS**.
+I'm also organizing the [iPI seminar series](https://www.ipi.s.u-tokyo.ac.jp/news/752/) at the [Institute for Physics of Intelligence (iπ), the University of Tokyo](https://www.ipi.s.u-tokyo.ac.jp/en/en-home/). From July 2026, I also become a Visiting Scientist at Theory Deppartment of GSI Helmholtz Center for Heavy Ion Research.
 
 To advance the diffusion-based generative models for lattice field theory, I'm leading the [DM-QFT](https://dm-qft.github.io/homepage/) collaboration, which includes many researchers from EU/UK/China/Japan.
 
@@ -8,4 +8,4 @@ Besides, I am the main facilitator of the ["DEEP‑IN" working group](https://it
 
 I have also organised numerous *Machine Learning in Physics* seminars for the community; past activities can be found on our [MLP club page](https://sites.google.com/view/deep-in-wg/achieve).
 
-If you are interested in academic collaboration, please feel free to contact me via **lingxiaowang[at]foxmail.com**.
+If you are interested in academic collaboration, please feel free to contact me via **lingxiaowang[replace to at]g.ecc.u-tokyo.ac.jp**.

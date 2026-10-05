@@ -47,10 +47,10 @@ theme = "barks"
   url = "https://scholar.google.de/citations?user=ujb-RpkAAAAJ&hl=en"
   weight = 3
 
-[params.social.twitter]
-  name = "Twitter"
-  class = "fab fa-twitter"
-  url = "https://x.com/lingxiao225"
+[params.social.linkedin]
+  name = "LinkedIn"
+  class = "fab fa-linkedin"
+  url = "https://www.linkedin.com/in/lingxiao-wang-6b5570102/"
   weight = 4
 
 [params.social.inspire]
