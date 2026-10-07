@@ -29,12 +29,6 @@ theme = "barks"
   show_footer = true
 
 ## Define social links shown in the footer
-[params.social.email]
-  name = "E‑Mail"
-  class = "fas fa-envelope"
-  url = "mailto:lingxiaowang@foxmail.com"
-  weight = 1
-
 [params.social.github]
   name = "GitHub"
   class = "fab fa-github"
